@@ -1,0 +1,83 @@
+Tanishas-MacBook-Pro:bin sanjayjain$ ./hadoop jar /Users/sanjayjain/NetBeansProjects/AmazonDistinctCounter/dist/AmazonDistinctCounter.jar /AmazonDir/FineFoodReview90k.csv /MRoutputsDir/counter
+17/04/25 17:44:54 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+17/04/25 17:44:55 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+17/04/25 17:44:55 WARN mapreduce.JobResourceUploader: Hadoop command-line option parsing not performed. Implement the Tool interface and execute your application with ToolRunner to remedy this.
+17/04/25 17:44:55 INFO input.FileInputFormat: Total input paths to process : 1
+17/04/25 17:44:55 INFO mapreduce.JobSubmitter: number of splits:1
+17/04/25 17:44:55 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1493146713696_0007
+17/04/25 17:44:55 INFO impl.YarnClientImpl: Submitted application application_1493146713696_0007
+17/04/25 17:44:56 INFO mapreduce.Job: The url to track the job: http://Tanishas-MacBook-Pro.local:8088/proxy/application_1493146713696_0007/
+17/04/25 17:44:56 INFO mapreduce.Job: Running job: job_1493146713696_0007
+17/04/25 17:45:02 INFO mapreduce.Job: Job job_1493146713696_0007 running in uber mode : false
+17/04/25 17:45:02 INFO mapreduce.Job:  map 0% reduce 0%
+17/04/25 17:45:07 INFO mapreduce.Job:  map 100% reduce 0%
+17/04/25 17:45:13 INFO mapreduce.Job:  map 100% reduce 100%
+17/04/25 17:45:13 INFO mapreduce.Job: Job job_1493146713696_0007 completed successfully
+17/04/25 17:45:13 INFO mapreduce.Job: Counters: 54
+	File System Counters
+		FILE: Number of bytes read=6
+		FILE: Number of bytes written=236427
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=46360366
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=6
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Launched reduce tasks=1
+		Data-local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=3035
+		Total time spent by all reduces in occupied slots (ms)=2315
+		Total time spent by all map tasks (ms)=3035
+		Total time spent by all reduce tasks (ms)=2315
+		Total vcore-milliseconds taken by all map tasks=3035
+		Total vcore-milliseconds taken by all reduce tasks=2315
+		Total megabyte-milliseconds taken by all map tasks=3107840
+		Total megabyte-milliseconds taken by all reduce tasks=2370560
+	Map-Reduce Framework
+		Map input records=90001
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=6
+		Input split bytes=118
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=6
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=133
+		CPU time spent (ms)=0
+		Physical memory (bytes) snapshot=0
+		Virtual memory (bytes) snapshot=0
+		Total committed heap usage (bytes)=315621376
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	State
+		1=8439
+		2=5046
+		3=7311
+		4=13186
+		5=56018
+	File Input Format Counters 
+		Bytes Read=46360248
+	File Output Format Counters 
+		Bytes Written=0
+Rating 1 is given to 8439 products
+Rating 2 is given to 5046 products
+Rating 3 is given to 7311 products
+Rating 4 is given to 13186 products
+Rating 5 is given to 56018 products
+Tanishas-MacBook-Pro:bin sanjayjain$ 

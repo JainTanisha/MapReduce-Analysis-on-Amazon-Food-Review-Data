@@ -1,0 +1,2067 @@
+Last login: Sun Apr 23 19:44:11 on ttys000
+Tanishas-MacBook-Pro:~ sanjayjain$ java -jar /Users/sanjayjain/NetBeansProjects/AmazonMahoutRecommendation/dist/AmazonMahoutRecommendation.jar 
+User Id: 710
+No recommendations for this user.
+User Id: 718
+No recommendations for this user.
+User Id: 730
+No recommendations for this user.
+User Id: 731
+No recommendations for this user.
+User Id: 733
+No recommendations for this user.
+User Id: 734
+No recommendations for this user.
+User Id: 736
+No recommendations for this user.
+User Id: 737
+No recommendations for this user.
+User Id: 739
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.555555
+Recommened Item Id 196. Strength of the preference: 4.509434
+Recommened Item Id 203. Strength of the preference: 4.423077
+Recommened Item Id 158. Strength of the preference: 4.414286
+User Id: 742
+No recommendations for this user.
+User Id: 743
+Recommened Item Id 152. Strength of the preference: 4.881478
+Recommened Item Id 165. Strength of the preference: 4.555309
+Recommened Item Id 167. Strength of the preference: 4.492374
+Recommened Item Id 193. Strength of the preference: 4.347790
+Recommened Item Id 196. Strength of the preference: 4.344056
+User Id: 744
+No recommendations for this user.
+User Id: 745
+No recommendations for this user.
+User Id: 749
+No recommendations for this user.
+User Id: 752
+No recommendations for this user.
+User Id: 753
+Recommened Item Id 194. Strength of the preference: 4.453411
+Recommened Item Id 201. Strength of the preference: 4.448694
+Recommened Item Id 158. Strength of the preference: 4.425107
+Recommened Item Id 168. Strength of the preference: 4.288672
+Recommened Item Id 206. Strength of the preference: 4.277563
+User Id: 755
+Recommened Item Id 206. Strength of the preference: 4.425000
+Recommened Item Id 165. Strength of the preference: 4.384615
+Recommened Item Id 157. Strength of the preference: 4.346154
+Recommened Item Id 158. Strength of the preference: 4.316456
+Recommened Item Id 161. Strength of the preference: 4.268293
+User Id: 757
+No recommendations for this user.
+User Id: 758
+Recommened Item Id 158. Strength of the preference: 4.440384
+Recommened Item Id 201. Strength of the preference: 4.400194
+Recommened Item Id 209. Strength of the preference: 4.370667
+Recommened Item Id 208. Strength of the preference: 4.370549
+Recommened Item Id 170. Strength of the preference: 4.359159
+User Id: 759
+Recommened Item Id 208. Strength of the preference: 4.595243
+Recommened Item Id 197. Strength of the preference: 4.449146
+Recommened Item Id 194. Strength of the preference: 4.371068
+Recommened Item Id 171. Strength of the preference: 4.313808
+Recommened Item Id 165. Strength of the preference: 4.299451
+User Id: 761
+No recommendations for this user.
+User Id: 762
+Recommened Item Id 201. Strength of the preference: 4.564516
+Recommened Item Id 208. Strength of the preference: 4.500000
+Recommened Item Id 196. Strength of the preference: 4.484375
+Recommened Item Id 164. Strength of the preference: 4.422535
+Recommened Item Id 194. Strength of the preference: 4.410714
+User Id: 763
+No recommendations for this user.
+User Id: 764
+Recommened Item Id 208. Strength of the preference: 4.472469
+Recommened Item Id 201. Strength of the preference: 4.459003
+Recommened Item Id 207. Strength of the preference: 4.412283
+Recommened Item Id 196. Strength of the preference: 4.404846
+Recommened Item Id 210. Strength of the preference: 4.375812
+User Id: 766
+No recommendations for this user.
+User Id: 767
+Recommened Item Id 196. Strength of the preference: 4.598532
+Recommened Item Id 208. Strength of the preference: 4.564277
+Recommened Item Id 201. Strength of the preference: 4.549240
+Recommened Item Id 194. Strength of the preference: 4.436406
+Recommened Item Id 207. Strength of the preference: 4.416431
+User Id: 768
+No recommendations for this user.
+User Id: 769
+No recommendations for this user.
+User Id: 770
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 206. Strength of the preference: 4.508049
+Recommened Item Id 196. Strength of the preference: 4.473342
+Recommened Item Id 158. Strength of the preference: 4.473102
+Recommened Item Id 207. Strength of the preference: 4.404948
+User Id: 771
+Recommened Item Id 171. Strength of the preference: 4.436947
+Recommened Item Id 203. Strength of the preference: 4.393840
+Recommened Item Id 165. Strength of the preference: 4.386635
+Recommened Item Id 207. Strength of the preference: 4.382435
+Recommened Item Id 196. Strength of the preference: 4.379641
+User Id: 773
+Recommened Item Id 158. Strength of the preference: 4.443520
+Recommened Item Id 207. Strength of the preference: 4.347321
+Recommened Item Id 165. Strength of the preference: 4.341237
+Recommened Item Id 196. Strength of the preference: 4.338642
+Recommened Item Id 200. Strength of the preference: 4.338018
+User Id: 774
+Recommened Item Id 209. Strength of the preference: 4.923077
+Recommened Item Id 208. Strength of the preference: 4.499022
+Recommened Item Id 202. Strength of the preference: 4.416992
+Recommened Item Id 165. Strength of the preference: 4.390379
+Recommened Item Id 201. Strength of the preference: 4.365901
+User Id: 776
+Recommened Item Id 201. Strength of the preference: 4.485580
+Recommened Item Id 196. Strength of the preference: 4.433760
+Recommened Item Id 165. Strength of the preference: 4.387673
+Recommened Item Id 208. Strength of the preference: 4.326451
+Recommened Item Id 199. Strength of the preference: 4.325607
+User Id: 777
+No recommendations for this user.
+User Id: 778
+No recommendations for this user.
+User Id: 779
+Recommened Item Id 200. Strength of the preference: 4.579012
+Recommened Item Id 167. Strength of the preference: 4.571897
+Recommened Item Id 165. Strength of the preference: 4.450996
+Recommened Item Id 160. Strength of the preference: 4.439587
+Recommened Item Id 197. Strength of the preference: 4.429356
+User Id: 780
+Recommened Item Id 158. Strength of the preference: 4.495933
+Recommened Item Id 196. Strength of the preference: 4.399858
+Recommened Item Id 157. Strength of the preference: 4.354978
+Recommened Item Id 165. Strength of the preference: 4.345460
+Recommened Item Id 171. Strength of the preference: 4.326496
+User Id: 781
+No recommendations for this user.
+User Id: 782
+Recommened Item Id 200. Strength of the preference: 4.630885
+Recommened Item Id 161. Strength of the preference: 4.557224
+Recommened Item Id 160. Strength of the preference: 4.490930
+Recommened Item Id 197. Strength of the preference: 4.424050
+Recommened Item Id 196. Strength of the preference: 4.383521
+User Id: 783
+No recommendations for this user.
+User Id: 784
+No recommendations for this user.
+User Id: 785
+No recommendations for this user.
+User Id: 786
+Recommened Item Id 208. Strength of the preference: 4.909206
+Recommened Item Id 209. Strength of the preference: 4.621467
+Recommened Item Id 194. Strength of the preference: 4.398118
+Recommened Item Id 199. Strength of the preference: 4.367359
+Recommened Item Id 158. Strength of the preference: 4.360447
+User Id: 787
+Recommened Item Id 201. Strength of the preference: 4.668285
+Recommened Item Id 208. Strength of the preference: 4.601920
+Recommened Item Id 196. Strength of the preference: 4.503671
+Recommened Item Id 167. Strength of the preference: 4.449881
+Recommened Item Id 164. Strength of the preference: 4.415881
+User Id: 788
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.607284
+Recommened Item Id 203. Strength of the preference: 4.555330
+Recommened Item Id 196. Strength of the preference: 4.516724
+Recommened Item Id 152. Strength of the preference: 4.496675
+User Id: 789
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 160. Strength of the preference: 4.401323
+Recommened Item Id 162. Strength of the preference: 4.397942
+Recommened Item Id 171. Strength of the preference: 4.385609
+Recommened Item Id 202. Strength of the preference: 4.377396
+User Id: 790
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.549306
+Recommened Item Id 201. Strength of the preference: 4.514594
+Recommened Item Id 196. Strength of the preference: 4.421040
+Recommened Item Id 164. Strength of the preference: 4.344263
+User Id: 791
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 157. Strength of the preference: 4.507164
+Recommened Item Id 207. Strength of the preference: 4.428687
+Recommened Item Id 199. Strength of the preference: 4.414349
+Recommened Item Id 152. Strength of the preference: 4.343655
+User Id: 792
+Recommened Item Id 201. Strength of the preference: 4.511606
+Recommened Item Id 155. Strength of the preference: 4.425922
+Recommened Item Id 165. Strength of the preference: 4.389122
+Recommened Item Id 164. Strength of the preference: 4.349419
+Recommened Item Id 206. Strength of the preference: 4.326990
+User Id: 793
+Recommened Item Id 199. Strength of the preference: 4.518721
+Recommened Item Id 158. Strength of the preference: 4.515916
+Recommened Item Id 209. Strength of the preference: 4.481373
+Recommened Item Id 195. Strength of the preference: 4.425530
+Recommened Item Id 194. Strength of the preference: 4.422864
+User Id: 794
+Recommened Item Id 199. Strength of the preference: 4.421701
+Recommened Item Id 202. Strength of the preference: 4.374275
+Recommened Item Id 165. Strength of the preference: 4.331003
+Recommened Item Id 158. Strength of the preference: 4.321536
+Recommened Item Id 201. Strength of the preference: 4.312683
+User Id: 795
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 170. Strength of the preference: 4.482604
+Recommened Item Id 196. Strength of the preference: 4.478899
+Recommened Item Id 165. Strength of the preference: 4.463667
+Recommened Item Id 162. Strength of the preference: 4.398020
+User Id: 796
+Recommened Item Id 203. Strength of the preference: 4.464770
+Recommened Item Id 208. Strength of the preference: 4.395540
+Recommened Item Id 193. Strength of the preference: 4.369352
+Recommened Item Id 196. Strength of the preference: 4.349518
+Recommened Item Id 154. Strength of the preference: 4.345421
+User Id: 797
+Recommened Item Id 196. Strength of the preference: 4.427689
+Recommened Item Id 171. Strength of the preference: 4.416134
+Recommened Item Id 169. Strength of the preference: 4.382199
+Recommened Item Id 154. Strength of the preference: 4.294002
+Recommened Item Id 207. Strength of the preference: 4.268262
+User Id: 798
+Recommened Item Id 207. Strength of the preference: 4.414614
+Recommened Item Id 203. Strength of the preference: 4.364308
+Recommened Item Id 197. Strength of the preference: 4.290638
+Recommened Item Id 200. Strength of the preference: 4.286125
+Recommened Item Id 158. Strength of the preference: 4.272628
+User Id: 799
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.953869
+Recommened Item Id 197. Strength of the preference: 4.610431
+Recommened Item Id 165. Strength of the preference: 4.439657
+User Id: 800
+Recommened Item Id 160. Strength of the preference: 4.354925
+Recommened Item Id 171. Strength of the preference: 4.333786
+Recommened Item Id 194. Strength of the preference: 4.282744
+Recommened Item Id 196. Strength of the preference: 4.257090
+Recommened Item Id 202. Strength of the preference: 4.256429
+User Id: 801
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 165. Strength of the preference: 4.539812
+Recommened Item Id 196. Strength of the preference: 4.485885
+Recommened Item Id 158. Strength of the preference: 4.438526
+Recommened Item Id 210. Strength of the preference: 4.434745
+User Id: 802
+Recommened Item Id 194. Strength of the preference: 4.604125
+Recommened Item Id 203. Strength of the preference: 4.350539
+Recommened Item Id 171. Strength of the preference: 4.257147
+Recommened Item Id 205. Strength of the preference: 4.177125
+Recommened Item Id 153. Strength of the preference: 4.160089
+User Id: 803
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 160. Strength of the preference: 4.359309
+Recommened Item Id 155. Strength of the preference: 4.309871
+Recommened Item Id 194. Strength of the preference: 4.298994
+Recommened Item Id 196. Strength of the preference: 4.271049
+User Id: 804
+Recommened Item Id 158. Strength of the preference: 4.379753
+Recommened Item Id 165. Strength of the preference: 4.363796
+Recommened Item Id 157. Strength of the preference: 4.330097
+Recommened Item Id 202. Strength of the preference: 4.305336
+Recommened Item Id 170. Strength of the preference: 4.290809
+User Id: 805
+Recommened Item Id 196. Strength of the preference: 4.450374
+Recommened Item Id 206. Strength of the preference: 4.421410
+Recommened Item Id 157. Strength of the preference: 4.377600
+Recommened Item Id 171. Strength of the preference: 4.357799
+Recommened Item Id 158. Strength of the preference: 4.320501
+User Id: 806
+Recommened Item Id 199. Strength of the preference: 4.553694
+Recommened Item Id 201. Strength of the preference: 4.517538
+Recommened Item Id 158. Strength of the preference: 4.501936
+Recommened Item Id 165. Strength of the preference: 4.478896
+Recommened Item Id 157. Strength of the preference: 4.408190
+User Id: 807
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.423095
+Recommened Item Id 201. Strength of the preference: 4.415763
+Recommened Item Id 158. Strength of the preference: 4.365518
+Recommened Item Id 170. Strength of the preference: 4.349535
+User Id: 808
+Recommened Item Id 207. Strength of the preference: 4.385324
+Recommened Item Id 201. Strength of the preference: 4.360815
+Recommened Item Id 203. Strength of the preference: 4.356437
+Recommened Item Id 157. Strength of the preference: 4.256711
+Recommened Item Id 165. Strength of the preference: 4.214149
+User Id: 809
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.582775
+Recommened Item Id 201. Strength of the preference: 4.580636
+Recommened Item Id 196. Strength of the preference: 4.529047
+Recommened Item Id 167. Strength of the preference: 4.449704
+User Id: 810
+Recommened Item Id 167. Strength of the preference: 4.613518
+Recommened Item Id 152. Strength of the preference: 4.583355
+Recommened Item Id 201. Strength of the preference: 4.468399
+Recommened Item Id 170. Strength of the preference: 4.461687
+Recommened Item Id 200. Strength of the preference: 4.379098
+User Id: 811
+Recommened Item Id 158. Strength of the preference: 4.408770
+Recommened Item Id 199. Strength of the preference: 4.405167
+Recommened Item Id 209. Strength of the preference: 4.371891
+Recommened Item Id 167. Strength of the preference: 4.370825
+Recommened Item Id 208. Strength of the preference: 4.335433
+User Id: 812
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.674816
+Recommened Item Id 201. Strength of the preference: 4.509199
+Recommened Item Id 196. Strength of the preference: 4.480124
+Recommened Item Id 209. Strength of the preference: 4.365269
+User Id: 813
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.710955
+Recommened Item Id 208. Strength of the preference: 4.665258
+Recommened Item Id 201. Strength of the preference: 4.517498
+Recommened Item Id 202. Strength of the preference: 4.460735
+User Id: 814
+Recommened Item Id 167. Strength of the preference: 4.549019
+Recommened Item Id 201. Strength of the preference: 4.509777
+Recommened Item Id 196. Strength of the preference: 4.462777
+Recommened Item Id 207. Strength of the preference: 4.334561
+Recommened Item Id 209. Strength of the preference: 4.298385
+User Id: 815
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.553893
+Recommened Item Id 209. Strength of the preference: 4.422019
+Recommened Item Id 199. Strength of the preference: 4.366031
+Recommened Item Id 207. Strength of the preference: 4.273808
+User Id: 816
+Recommened Item Id 196. Strength of the preference: 4.516592
+Recommened Item Id 201. Strength of the preference: 4.348317
+Recommened Item Id 170. Strength of the preference: 4.342723
+Recommened Item Id 168. Strength of the preference: 4.286840
+Recommened Item Id 164. Strength of the preference: 4.264337
+User Id: 817
+Recommened Item Id 194. Strength of the preference: 4.376709
+Recommened Item Id 204. Strength of the preference: 4.298202
+Recommened Item Id 158. Strength of the preference: 4.218437
+Recommened Item Id 195. Strength of the preference: 4.206273
+Recommened Item Id 170. Strength of the preference: 4.172030
+User Id: 818
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 196. Strength of the preference: 4.601557
+Recommened Item Id 201. Strength of the preference: 4.505561
+Recommened Item Id 152. Strength of the preference: 4.444000
+Recommened Item Id 197. Strength of the preference: 4.366486
+User Id: 819
+Recommened Item Id 167. Strength of the preference: 4.458761
+Recommened Item Id 208. Strength of the preference: 4.306238
+Recommened Item Id 168. Strength of the preference: 4.298011
+Recommened Item Id 207. Strength of the preference: 4.264273
+Recommened Item Id 203. Strength of the preference: 4.153998
+User Id: 820
+Recommened Item Id 194. Strength of the preference: 4.563590
+Recommened Item Id 201. Strength of the preference: 4.441252
+Recommened Item Id 195. Strength of the preference: 4.427532
+Recommened Item Id 208. Strength of the preference: 4.408402
+Recommened Item Id 199. Strength of the preference: 4.307190
+User Id: 821
+Recommened Item Id 194. Strength of the preference: 4.472158
+Recommened Item Id 196. Strength of the preference: 4.410472
+Recommened Item Id 204. Strength of the preference: 4.316616
+Recommened Item Id 195. Strength of the preference: 4.280009
+Recommened Item Id 208. Strength of the preference: 4.094453
+User Id: 822
+Recommened Item Id 208. Strength of the preference: 4.616992
+Recommened Item Id 171. Strength of the preference: 4.314128
+Recommened Item Id 196. Strength of the preference: 4.253494
+Recommened Item Id 195. Strength of the preference: 4.231255
+Recommened Item Id 204. Strength of the preference: 4.221156
+User Id: 823
+Recommened Item Id 206. Strength of the preference: 4.526839
+Recommened Item Id 203. Strength of the preference: 4.425152
+Recommened Item Id 154. Strength of the preference: 4.418729
+Recommened Item Id 205. Strength of the preference: 4.323444
+Recommened Item Id 170. Strength of the preference: 4.313212
+User Id: 824
+Recommened Item Id 171. Strength of the preference: 4.476954
+Recommened Item Id 201. Strength of the preference: 4.401489
+Recommened Item Id 193. Strength of the preference: 4.373809
+Recommened Item Id 200. Strength of the preference: 4.318677
+Recommened Item Id 208. Strength of the preference: 4.270260
+User Id: 825
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.554646
+Recommened Item Id 208. Strength of the preference: 4.527096
+Recommened Item Id 197. Strength of the preference: 4.443457
+Recommened Item Id 154. Strength of the preference: 4.208434
+User Id: 826
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 203. Strength of the preference: 4.401917
+Recommened Item Id 170. Strength of the preference: 4.284525
+Recommened Item Id 164. Strength of the preference: 4.281232
+Recommened Item Id 200. Strength of the preference: 4.277386
+User Id: 827
+Recommened Item Id 209. Strength of the preference: 4.610778
+Recommened Item Id 207. Strength of the preference: 4.475174
+Recommened Item Id 201. Strength of the preference: 4.368640
+Recommened Item Id 206. Strength of the preference: 4.341997
+Recommened Item Id 197. Strength of the preference: 4.341263
+User Id: 828
+Recommened Item Id 203. Strength of the preference: 4.426482
+Recommened Item Id 158. Strength of the preference: 4.385119
+Recommened Item Id 196. Strength of the preference: 4.276574
+Recommened Item Id 206. Strength of the preference: 4.210018
+Recommened Item Id 171. Strength of the preference: 4.172858
+User Id: 829
+Recommened Item Id 201. Strength of the preference: 4.535921
+Recommened Item Id 168. Strength of the preference: 4.350339
+Recommened Item Id 204. Strength of the preference: 4.325350
+Recommened Item Id 209. Strength of the preference: 4.323201
+Recommened Item Id 208. Strength of the preference: 4.321502
+User Id: 830
+Recommened Item Id 209. Strength of the preference: 4.366365
+Recommened Item Id 206. Strength of the preference: 4.239371
+Recommened Item Id 199. Strength of the preference: 4.231325
+Recommened Item Id 204. Strength of the preference: 4.157158
+Recommened Item Id 155. Strength of the preference: 4.154427
+User Id: 831
+Recommened Item Id 193. Strength of the preference: 4.357177
+Recommened Item Id 207. Strength of the preference: 4.251606
+Recommened Item Id 204. Strength of the preference: 4.246159
+Recommened Item Id 200. Strength of the preference: 4.230914
+Recommened Item Id 171. Strength of the preference: 4.190268
+User Id: 832
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.777182
+Recommened Item Id 154. Strength of the preference: 4.415795
+Recommened Item Id 203. Strength of the preference: 4.414275
+User Id: 833
+Recommened Item Id 152. Strength of the preference: 4.601496
+Recommened Item Id 203. Strength of the preference: 4.545087
+Recommened Item Id 154. Strength of the preference: 4.510359
+Recommened Item Id 208. Strength of the preference: 4.321828
+Recommened Item Id 201. Strength of the preference: 4.318780
+User Id: 834
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.825444
+Recommened Item Id 208. Strength of the preference: 4.638615
+Recommened Item Id 207. Strength of the preference: 4.464249
+Recommened Item Id 201. Strength of the preference: 4.441482
+User Id: 835
+Recommened Item Id 154. Strength of the preference: 4.367405
+Recommened Item Id 171. Strength of the preference: 4.328637
+Recommened Item Id 205. Strength of the preference: 4.317798
+Recommened Item Id 207. Strength of the preference: 4.299129
+Recommened Item Id 193. Strength of the preference: 4.231459
+User Id: 836
+Recommened Item Id 209. Strength of the preference: 4.600510
+Recommened Item Id 208. Strength of the preference: 4.513532
+Recommened Item Id 196. Strength of the preference: 4.418871
+Recommened Item Id 205. Strength of the preference: 4.385565
+Recommened Item Id 200. Strength of the preference: 4.274006
+User Id: 837
+Recommened Item Id 196. Strength of the preference: 4.318139
+Recommened Item Id 155. Strength of the preference: 4.287424
+Recommened Item Id 154. Strength of the preference: 4.282219
+Recommened Item Id 197. Strength of the preference: 4.232842
+Recommened Item Id 199. Strength of the preference: 4.208484
+User Id: 838
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 203. Strength of the preference: 4.341478
+Recommened Item Id 194. Strength of the preference: 4.264537
+Recommened Item Id 206. Strength of the preference: 4.254463
+Recommened Item Id 169. Strength of the preference: 4.159918
+User Id: 839
+Recommened Item Id 152. Strength of the preference: 4.365288
+Recommened Item Id 196. Strength of the preference: 4.267983
+Recommened Item Id 197. Strength of the preference: 4.215388
+Recommened Item Id 203. Strength of the preference: 4.181189
+Recommened Item Id 205. Strength of the preference: 4.153826
+User Id: 840
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 206. Strength of the preference: 4.509742
+Recommened Item Id 203. Strength of the preference: 4.437771
+Recommened Item Id 207. Strength of the preference: 4.373026
+Recommened Item Id 196. Strength of the preference: 4.368952
+User Id: 841
+Recommened Item Id 208. Strength of the preference: 4.681890
+Recommened Item Id 193. Strength of the preference: 4.452123
+Recommened Item Id 170. Strength of the preference: 4.410389
+Recommened Item Id 199. Strength of the preference: 4.376281
+Recommened Item Id 154. Strength of the preference: 4.341497
+User Id: 842
+Recommened Item Id 196. Strength of the preference: 4.554811
+Recommened Item Id 194. Strength of the preference: 4.299559
+Recommened Item Id 201. Strength of the preference: 4.227314
+Recommened Item Id 153. Strength of the preference: 4.183669
+Recommened Item Id 208. Strength of the preference: 4.168973
+User Id: 843
+Recommened Item Id 196. Strength of the preference: 4.773347
+Recommened Item Id 208. Strength of the preference: 4.692959
+Recommened Item Id 205. Strength of the preference: 4.298512
+Recommened Item Id 209. Strength of the preference: 4.292305
+Recommened Item Id 193. Strength of the preference: 4.174609
+User Id: 844
+Recommened Item Id 208. Strength of the preference: 4.593076
+Recommened Item Id 196. Strength of the preference: 4.271814
+Recommened Item Id 193. Strength of the preference: 4.188440
+Recommened Item Id 194. Strength of the preference: 4.174170
+Recommened Item Id 206. Strength of the preference: 4.055391
+User Id: 845
+Recommened Item Id 207. Strength of the preference: 4.329550
+Recommened Item Id 200. Strength of the preference: 4.251563
+Recommened Item Id 208. Strength of the preference: 4.204651
+Recommened Item Id 203. Strength of the preference: 4.067530
+Recommened Item Id 209. Strength of the preference: 4.028426
+User Id: 846
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 196. Strength of the preference: 4.488817
+Recommened Item Id 205. Strength of the preference: 4.474086
+Recommened Item Id 170. Strength of the preference: 4.466137
+Recommened Item Id 171. Strength of the preference: 4.292051
+User Id: 847
+Recommened Item Id 208. Strength of the preference: 4.487454
+Recommened Item Id 171. Strength of the preference: 4.392974
+Recommened Item Id 201. Strength of the preference: 4.319313
+Recommened Item Id 205. Strength of the preference: 3.984726
+Recommened Item Id 207. Strength of the preference: 3.965979
+User Id: 848
+Recommened Item Id 204. Strength of the preference: 4.329118
+Recommened Item Id 200. Strength of the preference: 4.226822
+Recommened Item Id 206. Strength of the preference: 4.215789
+Recommened Item Id 199. Strength of the preference: 4.203714
+Recommened Item Id 171. Strength of the preference: 4.194328
+User Id: 849
+Recommened Item Id 208. Strength of the preference: 4.705523
+Recommened Item Id 193. Strength of the preference: 4.378778
+Recommened Item Id 171. Strength of the preference: 4.306155
+Recommened Item Id 203. Strength of the preference: 4.255111
+Recommened Item Id 154. Strength of the preference: 4.232859
+User Id: 850
+Recommened Item Id 199. Strength of the preference: 4.460563
+Recommened Item Id 194. Strength of the preference: 4.362669
+Recommened Item Id 201. Strength of the preference: 4.246675
+Recommened Item Id 203. Strength of the preference: 4.156286
+Recommened Item Id 153. Strength of the preference: 4.141152
+User Id: 851
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.369301
+Recommened Item Id 171. Strength of the preference: 4.361666
+Recommened Item Id 155. Strength of the preference: 4.319651
+Recommened Item Id 203. Strength of the preference: 4.300685
+User Id: 852
+Recommened Item Id 196. Strength of the preference: 4.551586
+Recommened Item Id 201. Strength of the preference: 4.342053
+Recommened Item Id 205. Strength of the preference: 4.259947
+Recommened Item Id 199. Strength of the preference: 4.202926
+Recommened Item Id 171. Strength of the preference: 4.180130
+User Id: 853
+Recommened Item Id 209. Strength of the preference: 4.458713
+Recommened Item Id 207. Strength of the preference: 4.424968
+Recommened Item Id 205. Strength of the preference: 4.345780
+Recommened Item Id 194. Strength of the preference: 4.316113
+Recommened Item Id 206. Strength of the preference: 4.295209
+User Id: 854
+Recommened Item Id 201. Strength of the preference: 4.405443
+Recommened Item Id 200. Strength of the preference: 4.376118
+Recommened Item Id 193. Strength of the preference: 4.298644
+Recommened Item Id 152. Strength of the preference: 4.192625
+Recommened Item Id 206. Strength of the preference: 4.187690
+User Id: 855
+Recommened Item Id 194. Strength of the preference: 4.448479
+Recommened Item Id 204. Strength of the preference: 4.198892
+Recommened Item Id 206. Strength of the preference: 4.173218
+Recommened Item Id 208. Strength of the preference: 4.169205
+Recommened Item Id 193. Strength of the preference: 4.026241
+User Id: 856
+Recommened Item Id 208. Strength of the preference: 4.722803
+Recommened Item Id 209. Strength of the preference: 4.257960
+Recommened Item Id 198. Strength of the preference: 4.242935
+Recommened Item Id 206. Strength of the preference: 4.018054
+Recommened Item Id 153. Strength of the preference: 3.800670
+User Id: 857
+Recommened Item Id 201. Strength of the preference: 4.521035
+Recommened Item Id 207. Strength of the preference: 4.422204
+Recommened Item Id 209. Strength of the preference: 4.159146
+Recommened Item Id 171. Strength of the preference: 4.149129
+Recommened Item Id 203. Strength of the preference: 4.066466
+User Id: 858
+Recommened Item Id 208. Strength of the preference: 4.089402
+Recommened Item Id 207. Strength of the preference: 4.079763
+Recommened Item Id 193. Strength of the preference: 3.958174
+Recommened Item Id 206. Strength of the preference: 3.942291
+Recommened Item Id 153. Strength of the preference: 3.890352
+User Id: 859
+Recommened Item Id 208. Strength of the preference: 4.489898
+Recommened Item Id 207. Strength of the preference: 4.328108
+Recommened Item Id 193. Strength of the preference: 4.240478
+Recommened Item Id 154. Strength of the preference: 4.201354
+Recommened Item Id 204. Strength of the preference: 4.174045
+User Id: 860
+Recommened Item Id 152. Strength of the preference: 4.639032
+Recommened Item Id 207. Strength of the preference: 4.211800
+Recommened Item Id 208. Strength of the preference: 4.119148
+Recommened Item Id 171. Strength of the preference: 3.902544
+Recommened Item Id 153. Strength of the preference: 3.874384
+User Id: 861
+Recommened Item Id 154. Strength of the preference: 4.211147
+Recommened Item Id 198. Strength of the preference: 3.866052
+Recommened Item Id 206. Strength of the preference: 3.822747
+Recommened Item Id 208. Strength of the preference: 3.720499
+Recommened Item Id 207. Strength of the preference: 3.707642
+User Id: 862
+Recommened Item Id 207. Strength of the preference: 4.409295
+Recommened Item Id 205. Strength of the preference: 4.244143
+Recommened Item Id 152. Strength of the preference: 4.194293
+Recommened Item Id 209. Strength of the preference: 4.168426
+Recommened Item Id 208. Strength of the preference: 4.067327
+User Id: 863
+Recommened Item Id 205. Strength of the preference: 4.414854
+Recommened Item Id 206. Strength of the preference: 4.316517
+Recommened Item Id 209. Strength of the preference: 4.314337
+Recommened Item Id 171. Strength of the preference: 4.307549
+Recommened Item Id 194. Strength of the preference: 4.282761
+User Id: 864
+Recommened Item Id 171. Strength of the preference: 4.357574
+Recommened Item Id 207. Strength of the preference: 4.207520
+Recommened Item Id 206. Strength of the preference: 4.006677
+Recommened Item Id 208. Strength of the preference: 3.918313
+Recommened Item Id 193. Strength of the preference: 3.907715
+User Id: 865
+Recommened Item Id 201. Strength of the preference: 4.664902
+Recommened Item Id 204. Strength of the preference: 4.119369
+Recommened Item Id 205. Strength of the preference: 4.075489
+Recommened Item Id 209. Strength of the preference: 4.065201
+Recommened Item Id 195. Strength of the preference: 4.059689
+User Id: 866
+Recommened Item Id 203. Strength of the preference: 4.244613
+Recommened Item Id 208. Strength of the preference: 4.146631
+Recommened Item Id 202. Strength of the preference: 4.093707
+Recommened Item Id 207. Strength of the preference: 4.022220
+Recommened Item Id 209. Strength of the preference: 3.991179
+User Id: 867
+Recommened Item Id 209. Strength of the preference: 4.603428
+Recommened Item Id 208. Strength of the preference: 4.400675
+Recommened Item Id 193. Strength of the preference: 4.273544
+Recommened Item Id 200. Strength of the preference: 4.243779
+Recommened Item Id 194. Strength of the preference: 4.136818
+User Id: 868
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.162170
+Recommened Item Id 153. Strength of the preference: 3.990140
+Recommened Item Id 209. Strength of the preference: 3.734277
+User Id: 869
+Recommened Item Id 152. Strength of the preference: 4.513379
+Recommened Item Id 171. Strength of the preference: 4.352389
+Recommened Item Id 154. Strength of the preference: 4.201741
+Recommened Item Id 208. Strength of the preference: 4.164941
+Recommened Item Id 207. Strength of the preference: 3.824193
+User Id: 870
+Recommened Item Id 152. Strength of the preference: 4.036638
+Recommened Item Id 210. Strength of the preference: 4.000690
+Recommened Item Id 171. Strength of the preference: 3.857977
+Recommened Item Id 208. Strength of the preference: 3.725002
+User Id: 871
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.621616
+Recommened Item Id 209. Strength of the preference: 4.441480
+Recommened Item Id 206. Strength of the preference: 4.271375
+Recommened Item Id 152. Strength of the preference: 3.734115
+User Id: 872
+Recommened Item Id 209. Strength of the preference: 4.040515
+Recommened Item Id 153. Strength of the preference: 4.014761
+Recommened Item Id 208. Strength of the preference: 3.834449
+Recommened Item Id 205. Strength of the preference: 3.694362
+Recommened Item Id 152. Strength of the preference: 3.257658
+User Id: 873
+Recommened Item Id 208. Strength of the preference: 3.847254
+Recommened Item Id 209. Strength of the preference: 3.564110
+Recommened Item Id 152. Strength of the preference: 2.315739
+Recommened Item Id 211. Strength of the preference: 2.035943
+Recommened Item Id 210. Strength of the preference: 1.000000
+User Id: 874
+Recommened Item Id 204. Strength of the preference: 4.247913
+Recommened Item Id 211. Strength of the preference: 3.951602
+Recommened Item Id 207. Strength of the preference: 3.865694
+Recommened Item Id 205. Strength of the preference: 3.534749
+Recommened Item Id 209. Strength of the preference: 3.328008
+User Id: 875
+Recommened Item Id 204. Strength of the preference: 4.212478
+Recommened Item Id 208. Strength of the preference: 4.163737
+Recommened Item Id 206. Strength of the preference: 4.132027
+Recommened Item Id 209. Strength of the preference: 3.335735
+Recommened Item Id 210. Strength of the preference: 2.381225
+User Id: 876
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.075098
+Recommened Item Id 205. Strength of the preference: 3.965246
+Recommened Item Id 204. Strength of the preference: 3.854414
+Recommened Item Id 208. Strength of the preference: 3.664372
+User Id: 877
+Recommened Item Id 209. Strength of the preference: 4.350764
+Recommened Item Id 197. Strength of the preference: 4.310553
+Recommened Item Id 203. Strength of the preference: 4.286203
+Recommened Item Id 207. Strength of the preference: 4.252740
+Recommened Item Id 171. Strength of the preference: 3.967097
+User Id: 878
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 204. Strength of the preference: 4.350420
+Recommened Item Id 207. Strength of the preference: 4.169820
+Recommened Item Id 209. Strength of the preference: 4.039681
+Recommened Item Id 210. Strength of the preference: 2.876106
+User Id: 879
+Recommened Item Id 152. Strength of the preference: 4.443895
+Recommened Item Id 206. Strength of the preference: 4.187791
+Recommened Item Id 205. Strength of the preference: 4.150967
+Recommened Item Id 208. Strength of the preference: 4.037376
+Recommened Item Id 209. Strength of the preference: 3.838339
+User Id: 880
+Recommened Item Id 208. Strength of the preference: 4.235489
+Recommened Item Id 205. Strength of the preference: 4.110710
+Recommened Item Id 209. Strength of the preference: 3.919784
+Recommened Item Id 152. Strength of the preference: 3.854293
+User Id: 881
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.415448
+Recommened Item Id 152. Strength of the preference: 4.344576
+Recommened Item Id 194. Strength of the preference: 4.202081
+Recommened Item Id 209. Strength of the preference: 4.077508
+User Id: 882
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.777646
+Recommened Item Id 205. Strength of the preference: 4.071702
+Recommened Item Id 209. Strength of the preference: 4.039698
+Recommened Item Id 152. Strength of the preference: 2.506564
+User Id: 883
+Recommened Item Id 206. Strength of the preference: 4.431155
+Recommened Item Id 209. Strength of the preference: 4.385826
+Recommened Item Id 171. Strength of the preference: 4.049656
+Recommened Item Id 193. Strength of the preference: 3.895588
+Recommened Item Id 208. Strength of the preference: 3.765719
+User Id: 884
+Recommened Item Id 208. Strength of the preference: 4.723353
+Recommened Item Id 209. Strength of the preference: 4.417369
+Recommened Item Id 205. Strength of the preference: 4.300290
+Recommened Item Id 152. Strength of the preference: 4.272813
+Recommened Item Id 206. Strength of the preference: 4.023547
+User Id: 885
+Recommened Item Id 171. Strength of the preference: 4.194719
+Recommened Item Id 206. Strength of the preference: 4.116662
+Recommened Item Id 207. Strength of the preference: 3.963026
+Recommened Item Id 153. Strength of the preference: 3.684306
+Recommened Item Id 152. Strength of the preference: 3.215468
+User Id: 886
+Recommened Item Id 209. Strength of the preference: 4.481556
+Recommened Item Id 208. Strength of the preference: 4.446818
+Recommened Item Id 207. Strength of the preference: 4.362862
+Recommened Item Id 194. Strength of the preference: 4.231946
+User Id: 887
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 206. Strength of the preference: 4.286131
+Recommened Item Id 208. Strength of the preference: 4.223512
+Recommened Item Id 205. Strength of the preference: 4.209090
+Recommened Item Id 209. Strength of the preference: 4.074848
+User Id: 888
+Recommened Item Id 152. Strength of the preference: 4.423869
+Recommened Item Id 206. Strength of the preference: 4.320814
+Recommened Item Id 207. Strength of the preference: 4.235262
+Recommened Item Id 153. Strength of the preference: 3.961693
+Recommened Item Id 209. Strength of the preference: 3.935830
+User Id: 889
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.406480
+Recommened Item Id 209. Strength of the preference: 4.094971
+Recommened Item Id 205. Strength of the preference: 3.973342
+Recommened Item Id 208. Strength of the preference: 3.638214
+User Id: 890
+Recommened Item Id 209. Strength of the preference: 4.278914
+Recommened Item Id 206. Strength of the preference: 4.178354
+Recommened Item Id 208. Strength of the preference: 3.702274
+Recommened Item Id 152. Strength of the preference: 3.561964
+Recommened Item Id 210. Strength of the preference: 2.540847
+User Id: 891
+Recommened Item Id 152. Strength of the preference: 4.631212
+Recommened Item Id 208. Strength of the preference: 4.320498
+Recommened Item Id 205. Strength of the preference: 4.155160
+Recommened Item Id 207. Strength of the preference: 4.151460
+Recommened Item Id 209. Strength of the preference: 3.611016
+User Id: 892
+Recommened Item Id 210. Strength of the preference: 4.186914
+Recommened Item Id 209. Strength of the preference: 4.017503
+Recommened Item Id 152. Strength of the preference: 3.654859
+User Id: 893
+Recommened Item Id 152. Strength of the preference: 4.748581
+Recommened Item Id 171. Strength of the preference: 4.498721
+Recommened Item Id 208. Strength of the preference: 4.250176
+Recommened Item Id 206. Strength of the preference: 3.744025
+Recommened Item Id 209. Strength of the preference: 3.584454
+User Id: 894
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.424773
+Recommened Item Id 208. Strength of the preference: 4.356421
+Recommened Item Id 205. Strength of the preference: 4.231111
+Recommened Item Id 207. Strength of the preference: 4.159804
+User Id: 895
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.637582
+Recommened Item Id 152. Strength of the preference: 3.381029
+Recommened Item Id 209. Strength of the preference: 3.351908
+User Id: 896
+Recommened Item Id 209. Strength of the preference: 4.041836
+Recommened Item Id 152. Strength of the preference: 4.016352
+Recommened Item Id 207. Strength of the preference: 3.707496
+Recommened Item Id 210. Strength of the preference: 1.598322
+User Id: 897
+Recommened Item Id 171. Strength of the preference: 4.528437
+Recommened Item Id 209. Strength of the preference: 4.443720
+Recommened Item Id 207. Strength of the preference: 4.204969
+Recommened Item Id 206. Strength of the preference: 4.151999
+Recommened Item Id 152. Strength of the preference: 3.700160
+User Id: 898
+Recommened Item Id 208. Strength of the preference: 4.457957
+Recommened Item Id 152. Strength of the preference: 4.418879
+Recommened Item Id 205. Strength of the preference: 3.957971
+Recommened Item Id 210. Strength of the preference: 3.330255
+User Id: 899
+Recommened Item Id 207. Strength of the preference: 3.960846
+Recommened Item Id 152. Strength of the preference: 3.780814
+Recommened Item Id 209. Strength of the preference: 3.742001
+User Id: 900
+Recommened Item Id 205. Strength of the preference: 4.203614
+Recommened Item Id 207. Strength of the preference: 4.179734
+Recommened Item Id 209. Strength of the preference: 4.130248
+Recommened Item Id 204. Strength of the preference: 4.096914
+Recommened Item Id 152. Strength of the preference: 4.074900
+User Id: 901
+Recommened Item Id 206. Strength of the preference: 4.364235
+Recommened Item Id 208. Strength of the preference: 4.137801
+Recommened Item Id 205. Strength of the preference: 3.993968
+Recommened Item Id 153. Strength of the preference: 3.884246
+Recommened Item Id 152. Strength of the preference: 3.743653
+User Id: 902
+Recommened Item Id 208. Strength of the preference: 4.289721
+Recommened Item Id 209. Strength of the preference: 4.084130
+Recommened Item Id 206. Strength of the preference: 4.072610
+User Id: 903
+Recommened Item Id 208. Strength of the preference: 4.245559
+Recommened Item Id 207. Strength of the preference: 4.043872
+Recommened Item Id 206. Strength of the preference: 3.986204
+Recommened Item Id 152. Strength of the preference: 3.598042
+Recommened Item Id 210. Strength of the preference: 3.266144
+User Id: 904
+Recommened Item Id 209. Strength of the preference: 4.554396
+Recommened Item Id 205. Strength of the preference: 4.105306
+Recommened Item Id 152. Strength of the preference: 1.725168
+User Id: 905
+Recommened Item Id 208. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.166630
+Recommened Item Id 152. Strength of the preference: 3.553301
+User Id: 906
+Recommened Item Id 206. Strength of the preference: 4.263918
+Recommened Item Id 207. Strength of the preference: 3.825507
+Recommened Item Id 210. Strength of the preference: 3.646119
+Recommened Item Id 152. Strength of the preference: 3.000000
+User Id: 907
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.449712
+Recommened Item Id 204. Strength of the preference: 4.063029
+Recommened Item Id 207. Strength of the preference: 3.950420
+Recommened Item Id 152. Strength of the preference: 3.659550
+User Id: 908
+Recommened Item Id 194. Strength of the preference: 4.257913
+Recommened Item Id 209. Strength of the preference: 4.239046
+Recommened Item Id 211. Strength of the preference: 3.376988
+Recommened Item Id 152. Strength of the preference: 3.000000
+Recommened Item Id 210. Strength of the preference: 2.652653
+User Id: 909
+Recommened Item Id 208. Strength of the preference: 4.140089
+Recommened Item Id 209. Strength of the preference: 3.859759
+User Id: 910
+Recommened Item Id 206. Strength of the preference: 4.363801
+Recommened Item Id 207. Strength of the preference: 4.170102
+Recommened Item Id 193. Strength of the preference: 3.835613
+Recommened Item Id 209. Strength of the preference: 3.572750
+Recommened Item Id 152. Strength of the preference: 3.389459
+User Id: 911
+Recommened Item Id 152. Strength of the preference: 4.206600
+Recommened Item Id 207. Strength of the preference: 4.080956
+Recommened Item Id 208. Strength of the preference: 3.947254
+Recommened Item Id 209. Strength of the preference: 3.637834
+User Id: 912
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.377124
+Recommened Item Id 171. Strength of the preference: 4.183368
+Recommened Item Id 206. Strength of the preference: 3.978061
+Recommened Item Id 209. Strength of the preference: 3.797356
+User Id: 913
+Recommened Item Id 152. Strength of the preference: 4.264322
+Recommened Item Id 207. Strength of the preference: 3.555730
+Recommened Item Id 209. Strength of the preference: 3.424117
+Recommened Item Id 211. Strength of the preference: 2.388268
+Recommened Item Id 210. Strength of the preference: 1.784578
+User Id: 914
+Recommened Item Id 209. Strength of the preference: 4.488601
+Recommened Item Id 208. Strength of the preference: 4.261783
+Recommened Item Id 206. Strength of the preference: 4.117734
+Recommened Item Id 152. Strength of the preference: 3.898175
+Recommened Item Id 207. Strength of the preference: 3.726770
+User Id: 915
+Recommened Item Id 207. Strength of the preference: 4.538818
+Recommened Item Id 208. Strength of the preference: 4.043274
+Recommened Item Id 209. Strength of the preference: 3.964189
+Recommened Item Id 152. Strength of the preference: 3.926301
+User Id: 916
+Recommened Item Id 171. Strength of the preference: 4.467166
+Recommened Item Id 208. Strength of the preference: 4.234014
+Recommened Item Id 209. Strength of the preference: 4.097190
+Recommened Item Id 207. Strength of the preference: 3.997563
+Recommened Item Id 211. Strength of the preference: 3.849728
+User Id: 917
+Recommened Item Id 152. Strength of the preference: 3.951470
+Recommened Item Id 209. Strength of the preference: 3.886879
+Recommened Item Id 207. Strength of the preference: 3.133769
+Recommened Item Id 210. Strength of the preference: 1.000000
+User Id: 918
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.718001
+User Id: 919
+Recommened Item Id 209. Strength of the preference: 3.854496
+Recommened Item Id 152. Strength of the preference: 2.980663
+Recommened Item Id 210. Strength of the preference: 2.526346
+User Id: 920
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.405795
+Recommened Item Id 207. Strength of the preference: 4.256607
+Recommened Item Id 152. Strength of the preference: 4.217597
+Recommened Item Id 171. Strength of the preference: 4.140543
+User Id: 921
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.327826
+Recommened Item Id 206. Strength of the preference: 4.051145
+Recommened Item Id 209. Strength of the preference: 3.835824
+User Id: 922
+Recommened Item Id 209. Strength of the preference: 4.447591
+Recommened Item Id 208. Strength of the preference: 4.325774
+Recommened Item Id 205. Strength of the preference: 4.032769
+Recommened Item Id 207. Strength of the preference: 4.025198
+Recommened Item Id 152. Strength of the preference: 3.562125
+User Id: 923
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 152. Strength of the preference: 4.601691
+Recommened Item Id 207. Strength of the preference: 4.082723
+Recommened Item Id 209. Strength of the preference: 4.016163
+Recommened Item Id 208. Strength of the preference: 3.911978
+User Id: 924
+Recommened Item Id 208. Strength of the preference: 3.895967
+Recommened Item Id 209. Strength of the preference: 3.765680
+Recommened Item Id 152. Strength of the preference: 3.042196
+Recommened Item Id 211. Strength of the preference: 2.839239
+User Id: 925
+Recommened Item Id 152. Strength of the preference: 4.368761
+Recommened Item Id 209. Strength of the preference: 4.306321
+Recommened Item Id 153. Strength of the preference: 3.968068
+User Id: 926
+Recommened Item Id 207. Strength of the preference: 4.367779
+Recommened Item Id 208. Strength of the preference: 4.107519
+Recommened Item Id 152. Strength of the preference: 3.097911
+User Id: 927
+Recommened Item Id 206. Strength of the preference: 4.156557
+Recommened Item Id 209. Strength of the preference: 3.940361
+Recommened Item Id 208. Strength of the preference: 3.685792
+Recommened Item Id 210. Strength of the preference: 2.346557
+User Id: 928
+Recommened Item Id 152. Strength of the preference: 3.718574
+Recommened Item Id 210. Strength of the preference: 2.507418
+Recommened Item Id 211. Strength of the preference: 1.234316
+User Id: 929
+Recommened Item Id 210. Strength of the preference: 4.180239
+Recommened Item Id 211. Strength of the preference: 3.994010
+Recommened Item Id 209. Strength of the preference: 3.959756
+Recommened Item Id 152. Strength of the preference: 3.543981
+User Id: 930
+Recommened Item Id 203. Strength of the preference: 4.333289
+Recommened Item Id 209. Strength of the preference: 4.228090
+Recommened Item Id 207. Strength of the preference: 3.829862
+Recommened Item Id 211. Strength of the preference: 3.472533
+User Id: 931
+Recommened Item Id 209. Strength of the preference: 4.260157
+Recommened Item Id 152. Strength of the preference: 3.648197
+Recommened Item Id 210. Strength of the preference: 3.627034
+User Id: 932
+Recommened Item Id 209. Strength of the preference: 4.160205
+Recommened Item Id 208. Strength of the preference: 4.029411
+Recommened Item Id 152. Strength of the preference: 3.596057
+User Id: 933
+Recommened Item Id 208. Strength of the preference: 4.595314
+User Id: 934
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.664690
+Recommened Item Id 207. Strength of the preference: 3.614177
+Recommened Item Id 210. Strength of the preference: 3.082340
+Recommened Item Id 211. Strength of the preference: 2.891034
+User Id: 935
+Recommened Item Id 152. Strength of the preference: 4.612693
+Recommened Item Id 208. Strength of the preference: 4.308737
+Recommened Item Id 207. Strength of the preference: 3.780198
+Recommened Item Id 209. Strength of the preference: 3.556179
+Recommened Item Id 210. Strength of the preference: 2.988026
+User Id: 936
+Recommened Item Id 208. Strength of the preference: 4.318435
+Recommened Item Id 207. Strength of the preference: 4.260764
+Recommened Item Id 153. Strength of the preference: 3.977063
+Recommened Item Id 152. Strength of the preference: 3.941651
+Recommened Item Id 205. Strength of the preference: 3.923992
+User Id: 937
+Recommened Item Id 207. Strength of the preference: 4.209869
+Recommened Item Id 209. Strength of the preference: 4.118779
+Recommened Item Id 152. Strength of the preference: 4.068114
+User Id: 938
+Recommened Item Id 208. Strength of the preference: 4.346745
+Recommened Item Id 152. Strength of the preference: 4.209235
+Recommened Item Id 207. Strength of the preference: 3.758494
+Recommened Item Id 211. Strength of the preference: 3.049419
+User Id: 939
+Recommened Item Id 208. Strength of the preference: 4.688417
+Recommened Item Id 152. Strength of the preference: 4.155137
+Recommened Item Id 207. Strength of the preference: 3.717163
+Recommened Item Id 210. Strength of the preference: 3.429549
+User Id: 940
+Recommened Item Id 205. Strength of the preference: 4.209706
+Recommened Item Id 209. Strength of the preference: 3.827704
+Recommened Item Id 207. Strength of the preference: 3.696767
+Recommened Item Id 210. Strength of the preference: 2.511361
+User Id: 941
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.604457
+Recommened Item Id 209. Strength of the preference: 4.498216
+Recommened Item Id 152. Strength of the preference: 3.000000
+User Id: 942
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 210. Strength of the preference: 3.942887
+Recommened Item Id 208. Strength of the preference: 3.940004
+Recommened Item Id 209. Strength of the preference: 3.899829
+User Id: 943
+Recommened Item Id 208. Strength of the preference: 4.692677
+Recommened Item Id 210. Strength of the preference: 3.637305
+Recommened Item Id 209. Strength of the preference: 3.289292
+User Id: 944
+Recommened Item Id 209. Strength of the preference: 4.528534
+Recommened Item Id 152. Strength of the preference: 4.454067
+Recommened Item Id 206. Strength of the preference: 4.388687
+Recommened Item Id 207. Strength of the preference: 4.277956
+Recommened Item Id 208. Strength of the preference: 3.786829
+User Id: 945
+Recommened Item Id 208. Strength of the preference: 3.813859
+Recommened Item Id 209. Strength of the preference: 3.747757
+Recommened Item Id 152. Strength of the preference: 3.695682
+User Id: 946
+Recommened Item Id 209. Strength of the preference: 4.648188
+Recommened Item Id 205. Strength of the preference: 3.969840
+User Id: 947
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 206. Strength of the preference: 4.310923
+Recommened Item Id 209. Strength of the preference: 4.232199
+Recommened Item Id 208. Strength of the preference: 3.960243
+User Id: 948
+Recommened Item Id 208. Strength of the preference: 4.922428
+Recommened Item Id 210. Strength of the preference: 4.364603
+Recommened Item Id 152. Strength of the preference: 4.309595
+Recommened Item Id 206. Strength of the preference: 4.058149
+Recommened Item Id 209. Strength of the preference: 3.976702
+User Id: 949
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.223951
+Recommened Item Id 205. Strength of the preference: 3.968694
+Recommened Item Id 207. Strength of the preference: 3.574790
+User Id: 950
+Recommened Item Id 208. Strength of the preference: 4.547883
+Recommened Item Id 207. Strength of the preference: 3.954931
+Recommened Item Id 209. Strength of the preference: 3.886576
+Recommened Item Id 210. Strength of the preference: 3.698404
+User Id: 951
+Recommened Item Id 208. Strength of the preference: 4.485824
+Recommened Item Id 210. Strength of the preference: 4.054937
+Recommened Item Id 207. Strength of the preference: 3.699608
+Recommened Item Id 152. Strength of the preference: 3.667926
+User Id: 952
+Recommened Item Id 209. Strength of the preference: 4.457376
+Recommened Item Id 206. Strength of the preference: 4.235453
+Recommened Item Id 207. Strength of the preference: 4.153007
+Recommened Item Id 208. Strength of the preference: 3.857614
+Recommened Item Id 152. Strength of the preference: 3.294260
+User Id: 953
+Recommened Item Id 206. Strength of the preference: 4.421902
+Recommened Item Id 209. Strength of the preference: 4.195046
+Recommened Item Id 207. Strength of the preference: 3.450551
+Recommened Item Id 210. Strength of the preference: 3.314639
+Recommened Item Id 152. Strength of the preference: 3.112300
+User Id: 954
+Recommened Item Id 209. Strength of the preference: 4.573894
+Recommened Item Id 152. Strength of the preference: 4.045085
+Recommened Item Id 208. Strength of the preference: 3.896486
+Recommened Item Id 210. Strength of the preference: 3.656441
+User Id: 955
+Recommened Item Id 208. Strength of the preference: 4.382680
+Recommened Item Id 152. Strength of the preference: 4.300648
+Recommened Item Id 209. Strength of the preference: 3.819008
+Recommened Item Id 207. Strength of the preference: 3.491914
+Recommened Item Id 210. Strength of the preference: 2.719810
+User Id: 956
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.394689
+Recommened Item Id 152. Strength of the preference: 1.975445
+User Id: 957
+Recommened Item Id 209. Strength of the preference: 4.402754
+Recommened Item Id 208. Strength of the preference: 4.284202
+Recommened Item Id 152. Strength of the preference: 3.692467
+User Id: 958
+Recommened Item Id 209. Strength of the preference: 4.389647
+Recommened Item Id 152. Strength of the preference: 3.702903
+Recommened Item Id 210. Strength of the preference: 2.993286
+User Id: 959
+Recommened Item Id 208. Strength of the preference: 4.868279
+Recommened Item Id 152. Strength of the preference: 4.368762
+Recommened Item Id 207. Strength of the preference: 4.270597
+Recommened Item Id 209. Strength of the preference: 4.037954
+User Id: 960
+Recommened Item Id 209. Strength of the preference: 4.162406
+Recommened Item Id 208. Strength of the preference: 3.784082
+Recommened Item Id 207. Strength of the preference: 3.741043
+Recommened Item Id 152. Strength of the preference: 3.000000
+Recommened Item Id 211. Strength of the preference: 2.884003
+User Id: 961
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.414547
+Recommened Item Id 152. Strength of the preference: 4.255898
+Recommened Item Id 206. Strength of the preference: 4.182640
+Recommened Item Id 207. Strength of the preference: 4.009336
+User Id: 962
+Recommened Item Id 208. Strength of the preference: 4.251760
+Recommened Item Id 171. Strength of the preference: 4.059614
+Recommened Item Id 153. Strength of the preference: 4.051793
+Recommened Item Id 209. Strength of the preference: 3.457557
+Recommened Item Id 152. Strength of the preference: 3.131941
+User Id: 963
+Recommened Item Id 207. Strength of the preference: 3.871083
+Recommened Item Id 208. Strength of the preference: 3.756587
+Recommened Item Id 152. Strength of the preference: 2.572773
+Recommened Item Id 210. Strength of the preference: 2.062347
+Recommened Item Id 211. Strength of the preference: 1.426307
+User Id: 964
+Recommened Item Id 152. Strength of the preference: 4.378001
+Recommened Item Id 208. Strength of the preference: 4.257368
+Recommened Item Id 207. Strength of the preference: 3.897011
+Recommened Item Id 210. Strength of the preference: 2.722585
+User Id: 965
+Recommened Item Id 206. Strength of the preference: 4.384976
+Recommened Item Id 152. Strength of the preference: 4.255189
+Recommened Item Id 209. Strength of the preference: 3.944508
+Recommened Item Id 208. Strength of the preference: 3.749401
+Recommened Item Id 210. Strength of the preference: 3.318881
+User Id: 966
+Recommened Item Id 152. Strength of the preference: 4.217420
+Recommened Item Id 193. Strength of the preference: 4.032481
+Recommened Item Id 209. Strength of the preference: 3.413780
+Recommened Item Id 211. Strength of the preference: 3.351734
+Recommened Item Id 210. Strength of the preference: 2.948856
+User Id: 967
+Recommened Item Id 206. Strength of the preference: 4.280029
+Recommened Item Id 207. Strength of the preference: 4.273840
+Recommened Item Id 152. Strength of the preference: 1.468638
+User Id: 968
+Recommened Item Id 209. Strength of the preference: 4.594506
+Recommened Item Id 152. Strength of the preference: 1.921001
+User Id: 969
+Recommened Item Id 208. Strength of the preference: 3.995574
+Recommened Item Id 211. Strength of the preference: 3.656158
+Recommened Item Id 209. Strength of the preference: 3.276665
+Recommened Item Id 210. Strength of the preference: 2.969438
+Recommened Item Id 152. Strength of the preference: 2.505395
+User Id: 970
+Recommened Item Id 208. Strength of the preference: 4.656708
+Recommened Item Id 209. Strength of the preference: 4.212330
+Recommened Item Id 152. Strength of the preference: 3.687196
+Recommened Item Id 207. Strength of the preference: 3.530865
+Recommened Item Id 210. Strength of the preference: 3.470002
+User Id: 971
+Recommened Item Id 208. Strength of the preference: 4.755137
+Recommened Item Id 209. Strength of the preference: 4.272916
+Recommened Item Id 207. Strength of the preference: 3.974782
+User Id: 972
+Recommened Item Id 193. Strength of the preference: 4.225413
+Recommened Item Id 208. Strength of the preference: 4.122329
+Recommened Item Id 152. Strength of the preference: 3.789350
+Recommened Item Id 210. Strength of the preference: 2.308584
+User Id: 973
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.286525
+Recommened Item Id 152. Strength of the preference: 4.277015
+User Id: 974
+Recommened Item Id 208. Strength of the preference: 4.069772
+Recommened Item Id 207. Strength of the preference: 4.032688
+Recommened Item Id 211. Strength of the preference: 3.793956
+Recommened Item Id 152. Strength of the preference: 3.739520
+Recommened Item Id 210. Strength of the preference: 3.615313
+User Id: 975
+Recommened Item Id 152. Strength of the preference: 4.551867
+Recommened Item Id 208. Strength of the preference: 4.477057
+Recommened Item Id 207. Strength of the preference: 3.740967
+Recommened Item Id 210. Strength of the preference: 3.721092
+Recommened Item Id 211. Strength of the preference: 2.956523
+User Id: 976
+Recommened Item Id 206. Strength of the preference: 3.924291
+Recommened Item Id 208. Strength of the preference: 3.881239
+Recommened Item Id 152. Strength of the preference: 3.660700
+Recommened Item Id 209. Strength of the preference: 3.397896
+Recommened Item Id 211. Strength of the preference: 2.661593
+User Id: 977
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.301211
+Recommened Item Id 207. Strength of the preference: 3.677560
+Recommened Item Id 210. Strength of the preference: 2.300105
+User Id: 978
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.506307
+Recommened Item Id 207. Strength of the preference: 4.108222
+Recommened Item Id 171. Strength of the preference: 4.000285
+Recommened Item Id 208. Strength of the preference: 3.928676
+User Id: 979
+Recommened Item Id 209. Strength of the preference: 4.152132
+Recommened Item Id 208. Strength of the preference: 4.097436
+Recommened Item Id 152. Strength of the preference: 3.907573
+User Id: 980
+Recommened Item Id 208. Strength of the preference: 4.891642
+Recommened Item Id 206. Strength of the preference: 4.206748
+Recommened Item Id 205. Strength of the preference: 4.151925
+Recommened Item Id 209. Strength of the preference: 3.718800
+Recommened Item Id 207. Strength of the preference: 3.643485
+User Id: 981
+Recommened Item Id 208. Strength of the preference: 4.042449
+Recommened Item Id 209. Strength of the preference: 3.836626
+Recommened Item Id 210. Strength of the preference: 1.000000
+User Id: 982
+Recommened Item Id 207. Strength of the preference: 3.867300
+Recommened Item Id 152. Strength of the preference: 3.342706
+User Id: 983
+Recommened Item Id 207. Strength of the preference: 4.108329
+Recommened Item Id 209. Strength of the preference: 4.095285
+Recommened Item Id 206. Strength of the preference: 3.802184
+Recommened Item Id 208. Strength of the preference: 3.357193
+Recommened Item Id 210. Strength of the preference: 3.042016
+User Id: 984
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 193. Strength of the preference: 4.442396
+Recommened Item Id 210. Strength of the preference: 2.348850
+Recommened Item Id 211. Strength of the preference: 1.426238
+User Id: 985
+Recommened Item Id 208. Strength of the preference: 4.284042
+Recommened Item Id 206. Strength of the preference: 4.122231
+Recommened Item Id 210. Strength of the preference: 4.011691
+Recommened Item Id 207. Strength of the preference: 4.009309
+Recommened Item Id 205. Strength of the preference: 3.728138
+User Id: 986
+Recommened Item Id 193. Strength of the preference: 4.333283
+Recommened Item Id 152. Strength of the preference: 4.039308
+Recommened Item Id 209. Strength of the preference: 3.976007
+User Id: 987
+Recommened Item Id 209. Strength of the preference: 4.415642
+Recommened Item Id 207. Strength of the preference: 4.144300
+Recommened Item Id 208. Strength of the preference: 3.993830
+User Id: 988
+Recommened Item Id 208. Strength of the preference: 4.218363
+Recommened Item Id 207. Strength of the preference: 3.841095
+Recommened Item Id 152. Strength of the preference: 3.258852
+Recommened Item Id 210. Strength of the preference: 2.830924
+User Id: 989
+Recommened Item Id 209. Strength of the preference: 4.165622
+Recommened Item Id 207. Strength of the preference: 3.997669
+Recommened Item Id 193. Strength of the preference: 3.957232
+Recommened Item Id 210. Strength of the preference: 2.189677
+User Id: 990
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 3.979954
+Recommened Item Id 152. Strength of the preference: 3.000000
+User Id: 991
+Recommened Item Id 208. Strength of the preference: 4.881624
+Recommened Item Id 152. Strength of the preference: 4.501047
+Recommened Item Id 193. Strength of the preference: 4.004273
+Recommened Item Id 207. Strength of the preference: 3.952241
+User Id: 992
+Recommened Item Id 193. Strength of the preference: 4.385211
+Recommened Item Id 208. Strength of the preference: 4.339286
+Recommened Item Id 209. Strength of the preference: 4.312038
+Recommened Item Id 207. Strength of the preference: 4.278607
+Recommened Item Id 206. Strength of the preference: 4.216433
+User Id: 993
+Recommened Item Id 152. Strength of the preference: 4.590308
+Recommened Item Id 208. Strength of the preference: 4.519707
+Recommened Item Id 209. Strength of the preference: 3.792207
+Recommened Item Id 210. Strength of the preference: 3.010052
+Recommened Item Id 211. Strength of the preference: 1.721930
+User Id: 994
+Recommened Item Id 208. Strength of the preference: 4.889808
+Recommened Item Id 207. Strength of the preference: 4.253432
+Recommened Item Id 210. Strength of the preference: 4.186813
+Recommened Item Id 152. Strength of the preference: 3.940352
+Recommened Item Id 209. Strength of the preference: 3.724888
+User Id: 995
+Recommened Item Id 152. Strength of the preference: 4.097960
+Recommened Item Id 207. Strength of the preference: 4.050278
+Recommened Item Id 205. Strength of the preference: 4.046947
+Recommened Item Id 208. Strength of the preference: 3.934607
+User Id: 996
+Recommened Item Id 208. Strength of the preference: 4.032162
+Recommened Item Id 209. Strength of the preference: 4.019695
+Recommened Item Id 152. Strength of the preference: 3.461495
+Recommened Item Id 210. Strength of the preference: 2.867672
+User Id: 997
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.331732
+Recommened Item Id 209. Strength of the preference: 3.961130
+Recommened Item Id 152. Strength of the preference: 3.927179
+Recommened Item Id 208. Strength of the preference: 3.798138
+User Id: 998
+Recommened Item Id 152. Strength of the preference: 3.900305
+Recommened Item Id 209. Strength of the preference: 3.830450
+Recommened Item Id 211. Strength of the preference: 3.742040
+Recommened Item Id 210. Strength of the preference: 3.468897
+User Id: 999
+Recommened Item Id 209. Strength of the preference: 3.487184
+Recommened Item Id 210. Strength of the preference: 3.289008
+Recommened Item Id 152. Strength of the preference: 2.703320
+User Id: 1000
+Recommened Item Id 206. Strength of the preference: 4.374832
+Recommened Item Id 207. Strength of the preference: 4.279016
+Recommened Item Id 208. Strength of the preference: 3.842354
+User Id: 1001
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.562375
+Recommened Item Id 209. Strength of the preference: 4.227983
+Recommened Item Id 152. Strength of the preference: 4.020084
+Recommened Item Id 207. Strength of the preference: 3.919353
+User Id: 1002
+Recommened Item Id 206. Strength of the preference: 4.455050
+Recommened Item Id 209. Strength of the preference: 4.284635
+Recommened Item Id 207. Strength of the preference: 3.999774
+Recommened Item Id 208. Strength of the preference: 3.907373
+User Id: 1003
+Recommened Item Id 208. Strength of the preference: 4.855697
+Recommened Item Id 209. Strength of the preference: 4.155968
+Recommened Item Id 205. Strength of the preference: 4.118249
+Recommened Item Id 193. Strength of the preference: 3.819371
+Recommened Item Id 206. Strength of the preference: 3.707039
+User Id: 1004
+Recommened Item Id 208. Strength of the preference: 4.700931
+Recommened Item Id 207. Strength of the preference: 4.351779
+Recommened Item Id 171. Strength of the preference: 4.140753
+Recommened Item Id 152. Strength of the preference: 4.000390
+Recommened Item Id 209. Strength of the preference: 3.948873
+User Id: 1005
+Recommened Item Id 211. Strength of the preference: 4.246729
+Recommened Item Id 209. Strength of the preference: 4.136133
+Recommened Item Id 210. Strength of the preference: 3.978392
+Recommened Item Id 152. Strength of the preference: 3.974474
+Recommened Item Id 207. Strength of the preference: 3.950781
+User Id: 1006
+Recommened Item Id 208. Strength of the preference: 4.148547
+Recommened Item Id 209. Strength of the preference: 4.026523
+Recommened Item Id 152. Strength of the preference: 3.001267
+User Id: 1007
+Recommened Item Id 208. Strength of the preference: 4.024611
+Recommened Item Id 209. Strength of the preference: 3.713766
+Recommened Item Id 152. Strength of the preference: 3.441205
+Recommened Item Id 210. Strength of the preference: 3.130025
+User Id: 1008
+Recommened Item Id 204. Strength of the preference: 3.909076
+Recommened Item Id 171. Strength of the preference: 3.739734
+Recommened Item Id 152. Strength of the preference: 3.491890
+Recommened Item Id 211. Strength of the preference: 1.501128
+Recommened Item Id 210. Strength of the preference: 1.393338
+User Id: 1009
+Recommened Item Id 152. Strength of the preference: 4.292183
+Recommened Item Id 209. Strength of the preference: 3.744299
+Recommened Item Id 153. Strength of the preference: 3.730813
+Recommened Item Id 210. Strength of the preference: 2.336043
+User Id: 1010
+Recommened Item Id 152. Strength of the preference: 4.579371
+Recommened Item Id 207. Strength of the preference: 4.193138
+Recommened Item Id 206. Strength of the preference: 4.059062
+Recommened Item Id 208. Strength of the preference: 3.874930
+Recommened Item Id 209. Strength of the preference: 3.816921
+User Id: 1011
+Recommened Item Id 208. Strength of the preference: 3.946242
+Recommened Item Id 205. Strength of the preference: 3.857603
+Recommened Item Id 207. Strength of the preference: 3.733281
+Recommened Item Id 209. Strength of the preference: 3.533605
+Recommened Item Id 210. Strength of the preference: 2.554251
+User Id: 1012
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.519683
+Recommened Item Id 152. Strength of the preference: 4.406075
+Recommened Item Id 207. Strength of the preference: 4.365082
+Recommened Item Id 193. Strength of the preference: 4.320977
+User Id: 1013
+Recommened Item Id 203. Strength of the preference: 4.261685
+Recommened Item Id 196. Strength of the preference: 4.219567
+Recommened Item Id 154. Strength of the preference: 4.205115
+Recommened Item Id 152. Strength of the preference: 4.186496
+Recommened Item Id 208. Strength of the preference: 4.125244
+User Id: 1014
+Recommened Item Id 208. Strength of the preference: 4.163154
+Recommened Item Id 209. Strength of the preference: 3.937243
+Recommened Item Id 171. Strength of the preference: 3.934165
+Recommened Item Id 211. Strength of the preference: 3.814022
+Recommened Item Id 193. Strength of the preference: 3.788741
+User Id: 1015
+Recommened Item Id 193. Strength of the preference: 4.361886
+Recommened Item Id 152. Strength of the preference: 4.162476
+Recommened Item Id 208. Strength of the preference: 4.020645
+Recommened Item Id 211. Strength of the preference: 3.852984
+Recommened Item Id 209. Strength of the preference: 3.789669
+User Id: 1016
+Recommened Item Id 210. Strength of the preference: 4.145422
+Recommened Item Id 209. Strength of the preference: 4.131843
+Recommened Item Id 206. Strength of the preference: 3.993303
+Recommened Item Id 208. Strength of the preference: 3.664469
+Recommened Item Id 153. Strength of the preference: 3.573007
+User Id: 1017
+Recommened Item Id 209. Strength of the preference: 4.285475
+Recommened Item Id 171. Strength of the preference: 4.184074
+Recommened Item Id 205. Strength of the preference: 4.056155
+Recommened Item Id 208. Strength of the preference: 3.889024
+Recommened Item Id 210. Strength of the preference: 2.894882
+User Id: 1018
+Recommened Item Id 193. Strength of the preference: 4.139173
+Recommened Item Id 171. Strength of the preference: 4.044128
+Recommened Item Id 153. Strength of the preference: 4.028268
+Recommened Item Id 152. Strength of the preference: 3.586557
+Recommened Item Id 211. Strength of the preference: 1.500129
+User Id: 1019
+Recommened Item Id 193. Strength of the preference: 4.378071
+Recommened Item Id 208. Strength of the preference: 4.025430
+Recommened Item Id 153. Strength of the preference: 3.988798
+User Id: 1020
+Recommened Item Id 152. Strength of the preference: 3.833436
+User Id: 1021
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.586907
+Recommened Item Id 207. Strength of the preference: 4.020980
+Recommened Item Id 210. Strength of the preference: 3.275811
+Recommened Item Id 209. Strength of the preference: 3.231816
+User Id: 1022
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 209. Strength of the preference: 4.310175
+Recommened Item Id 208. Strength of the preference: 4.125899
+User Id: 1023
+Recommened Item Id 208. Strength of the preference: 4.452044
+Recommened Item Id 200. Strength of the preference: 4.333747
+Recommened Item Id 207. Strength of the preference: 4.068978
+Recommened Item Id 205. Strength of the preference: 4.060513
+Recommened Item Id 152. Strength of the preference: 3.933850
+User Id: 1024
+Recommened Item Id 207. Strength of the preference: 4.238681
+Recommened Item Id 193. Strength of the preference: 4.080946
+Recommened Item Id 195. Strength of the preference: 4.040782
+Recommened Item Id 201. Strength of the preference: 4.036660
+Recommened Item Id 208. Strength of the preference: 3.375932
+User Id: 1025
+Recommened Item Id 207. Strength of the preference: 4.345361
+Recommened Item Id 203. Strength of the preference: 4.215233
+Recommened Item Id 209. Strength of the preference: 4.039315
+Recommened Item Id 208. Strength of the preference: 3.743580
+Recommened Item Id 152. Strength of the preference: 3.439847
+User Id: 1026
+Recommened Item Id 206. Strength of the preference: 4.188613
+Recommened Item Id 208. Strength of the preference: 4.177174
+Recommened Item Id 207. Strength of the preference: 4.162140
+Recommened Item Id 200. Strength of the preference: 4.085781
+Recommened Item Id 203. Strength of the preference: 4.057414
+User Id: 1027
+Recommened Item Id 154. Strength of the preference: 4.236175
+Recommened Item Id 206. Strength of the preference: 4.092404
+Recommened Item Id 207. Strength of the preference: 4.034641
+Recommened Item Id 209. Strength of the preference: 3.864640
+Recommened Item Id 208. Strength of the preference: 3.810489
+User Id: 1028
+Recommened Item Id 208. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.529493
+Recommened Item Id 206. Strength of the preference: 4.313970
+Recommened Item Id 205. Strength of the preference: 3.744503
+Recommened Item Id 209. Strength of the preference: 3.255759
+User Id: 1029
+Recommened Item Id 205. Strength of the preference: 3.899741
+Recommened Item Id 153. Strength of the preference: 3.819827
+Recommened Item Id 209. Strength of the preference: 3.256741
+Recommened Item Id 152. Strength of the preference: 2.857507
+User Id: 1030
+Recommened Item Id 193. Strength of the preference: 4.398744
+Recommened Item Id 209. Strength of the preference: 4.247689
+Recommened Item Id 171. Strength of the preference: 4.148280
+Recommened Item Id 210. Strength of the preference: 4.130548
+Recommened Item Id 208. Strength of the preference: 4.094732
+User Id: 1031
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.325839
+Recommened Item Id 204. Strength of the preference: 4.325225
+Recommened Item Id 209. Strength of the preference: 4.312890
+Recommened Item Id 205. Strength of the preference: 4.188721
+User Id: 1032
+Recommened Item Id 193. Strength of the preference: 4.002261
+Recommened Item Id 207. Strength of the preference: 3.864926
+Recommened Item Id 209. Strength of the preference: 3.545192
+Recommened Item Id 210. Strength of the preference: 1.000000
+User Id: 1033
+Recommened Item Id 152. Strength of the preference: 4.468852
+Recommened Item Id 205. Strength of the preference: 4.321147
+Recommened Item Id 203. Strength of the preference: 4.077371
+Recommened Item Id 206. Strength of the preference: 4.023791
+Recommened Item Id 207. Strength of the preference: 3.632269
+User Id: 1034
+Recommened Item Id 154. Strength of the preference: 4.506505
+Recommened Item Id 201. Strength of the preference: 4.386990
+Recommened Item Id 196. Strength of the preference: 4.305744
+Recommened Item Id 193. Strength of the preference: 4.253637
+Recommened Item Id 203. Strength of the preference: 4.208961
+User Id: 1035
+Recommened Item Id 202. Strength of the preference: 4.399167
+Recommened Item Id 193. Strength of the preference: 4.274046
+Recommened Item Id 152. Strength of the preference: 4.252990
+Recommened Item Id 206. Strength of the preference: 4.207148
+Recommened Item Id 171. Strength of the preference: 4.185779
+User Id: 1036
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 196. Strength of the preference: 4.633134
+Recommened Item Id 208. Strength of the preference: 4.368028
+Recommened Item Id 205. Strength of the preference: 4.359718
+Recommened Item Id 171. Strength of the preference: 4.220410
+User Id: 1037
+Recommened Item Id 209. Strength of the preference: 4.642819
+Recommened Item Id 208. Strength of the preference: 4.561340
+Recommened Item Id 196. Strength of the preference: 4.498670
+Recommened Item Id 205. Strength of the preference: 4.200568
+Recommened Item Id 153. Strength of the preference: 4.036718
+User Id: 1038
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.335292
+Recommened Item Id 208. Strength of the preference: 4.289450
+Recommened Item Id 198. Strength of the preference: 4.264866
+Recommened Item Id 205. Strength of the preference: 4.151737
+User Id: 1039
+Recommened Item Id 208. Strength of the preference: 4.307929
+Recommened Item Id 154. Strength of the preference: 4.256896
+Recommened Item Id 194. Strength of the preference: 4.255336
+Recommened Item Id 202. Strength of the preference: 4.127816
+Recommened Item Id 195. Strength of the preference: 4.121987
+User Id: 1040
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.353136
+Recommened Item Id 207. Strength of the preference: 4.293656
+Recommened Item Id 203. Strength of the preference: 4.225345
+Recommened Item Id 195. Strength of the preference: 4.206606
+User Id: 1041
+Recommened Item Id 152. Strength of the preference: 4.278803
+Recommened Item Id 171. Strength of the preference: 4.235453
+Recommened Item Id 206. Strength of the preference: 4.216277
+Recommened Item Id 193. Strength of the preference: 4.210499
+Recommened Item Id 209. Strength of the preference: 4.169053
+User Id: 1042
+Recommened Item Id 208. Strength of the preference: 4.911448
+Recommened Item Id 152. Strength of the preference: 4.534844
+Recommened Item Id 168. Strength of the preference: 4.290553
+Recommened Item Id 157. Strength of the preference: 4.212134
+Recommened Item Id 171. Strength of the preference: 4.211903
+User Id: 1043
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.364130
+Recommened Item Id 196. Strength of the preference: 4.350563
+Recommened Item Id 171. Strength of the preference: 4.348054
+Recommened Item Id 199. Strength of the preference: 4.342128
+User Id: 1044
+Recommened Item Id 208. Strength of the preference: 4.294663
+Recommened Item Id 204. Strength of the preference: 4.232140
+Recommened Item Id 171. Strength of the preference: 4.201344
+Recommened Item Id 209. Strength of the preference: 4.199165
+Recommened Item Id 194. Strength of the preference: 4.092604
+User Id: 1045
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.729897
+Recommened Item Id 209. Strength of the preference: 4.555345
+Recommened Item Id 196. Strength of the preference: 4.483984
+Recommened Item Id 207. Strength of the preference: 4.466061
+User Id: 1046
+Recommened Item Id 152. Strength of the preference: 4.634111
+Recommened Item Id 205. Strength of the preference: 4.306133
+Recommened Item Id 206. Strength of the preference: 4.180396
+Recommened Item Id 204. Strength of the preference: 4.073615
+Recommened Item Id 207. Strength of the preference: 4.048229
+User Id: 1047
+Recommened Item Id 201. Strength of the preference: 4.559544
+Recommened Item Id 207. Strength of the preference: 4.441561
+Recommened Item Id 171. Strength of the preference: 4.378537
+Recommened Item Id 199. Strength of the preference: 4.342013
+Recommened Item Id 205. Strength of the preference: 4.219553
+User Id: 1048
+Recommened Item Id 209. Strength of the preference: 4.606647
+Recommened Item Id 197. Strength of the preference: 4.437557
+Recommened Item Id 207. Strength of the preference: 4.392951
+Recommened Item Id 206. Strength of the preference: 4.279255
+Recommened Item Id 152. Strength of the preference: 4.214826
+User Id: 1049
+Recommened Item Id 208. Strength of the preference: 4.452018
+Recommened Item Id 152. Strength of the preference: 4.324839
+Recommened Item Id 204. Strength of the preference: 4.323530
+Recommened Item Id 193. Strength of the preference: 4.266661
+Recommened Item Id 171. Strength of the preference: 4.225687
+User Id: 1050
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 170. Strength of the preference: 4.478990
+Recommened Item Id 203. Strength of the preference: 4.364866
+Recommened Item Id 168. Strength of the preference: 4.308679
+Recommened Item Id 194. Strength of the preference: 4.285091
+User Id: 1051
+Recommened Item Id 193. Strength of the preference: 4.498215
+Recommened Item Id 203. Strength of the preference: 4.365941
+Recommened Item Id 199. Strength of the preference: 4.321817
+Recommened Item Id 205. Strength of the preference: 4.306490
+Recommened Item Id 204. Strength of the preference: 4.296876
+User Id: 1052
+Recommened Item Id 169. Strength of the preference: 4.299733
+Recommened Item Id 194. Strength of the preference: 4.224177
+Recommened Item Id 203. Strength of the preference: 4.211154
+Recommened Item Id 196. Strength of the preference: 4.205968
+Recommened Item Id 208. Strength of the preference: 4.204213
+User Id: 1053
+Recommened Item Id 193. Strength of the preference: 4.382393
+Recommened Item Id 195. Strength of the preference: 4.360338
+Recommened Item Id 194. Strength of the preference: 4.320718
+Recommened Item Id 201. Strength of the preference: 4.300210
+Recommened Item Id 197. Strength of the preference: 4.267008
+User Id: 1054
+Recommened Item Id 208. Strength of the preference: 4.654120
+Recommened Item Id 197. Strength of the preference: 4.405148
+Recommened Item Id 194. Strength of the preference: 4.289021
+Recommened Item Id 154. Strength of the preference: 4.277638
+Recommened Item Id 152. Strength of the preference: 4.238371
+User Id: 1055
+Recommened Item Id 208. Strength of the preference: 4.525625
+Recommened Item Id 165. Strength of the preference: 4.350953
+Recommened Item Id 202. Strength of the preference: 4.270733
+Recommened Item Id 197. Strength of the preference: 4.267364
+Recommened Item Id 209. Strength of the preference: 4.122376
+User Id: 1056
+Recommened Item Id 196. Strength of the preference: 4.430104
+Recommened Item Id 194. Strength of the preference: 4.425593
+Recommened Item Id 199. Strength of the preference: 4.307352
+Recommened Item Id 204. Strength of the preference: 4.189672
+Recommened Item Id 170. Strength of the preference: 4.115351
+User Id: 1057
+Recommened Item Id 197. Strength of the preference: 4.431318
+Recommened Item Id 171. Strength of the preference: 4.269466
+Recommened Item Id 204. Strength of the preference: 4.252153
+Recommened Item Id 166. Strength of the preference: 4.247176
+Recommened Item Id 206. Strength of the preference: 4.239334
+User Id: 1058
+Recommened Item Id 154. Strength of the preference: 4.261499
+Recommened Item Id 193. Strength of the preference: 4.248868
+Recommened Item Id 208. Strength of the preference: 4.190684
+Recommened Item Id 153. Strength of the preference: 4.166527
+Recommened Item Id 194. Strength of the preference: 4.155049
+User Id: 1059
+Recommened Item Id 202. Strength of the preference: 4.471792
+Recommened Item Id 208. Strength of the preference: 4.467832
+Recommened Item Id 201. Strength of the preference: 4.465428
+Recommened Item Id 196. Strength of the preference: 4.454103
+Recommened Item Id 194. Strength of the preference: 4.196731
+User Id: 1060
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 196. Strength of the preference: 4.485140
+Recommened Item Id 201. Strength of the preference: 4.447481
+Recommened Item Id 170. Strength of the preference: 4.356579
+Recommened Item Id 167. Strength of the preference: 4.296361
+User Id: 1061
+Recommened Item Id 208. Strength of the preference: 4.618045
+Recommened Item Id 201. Strength of the preference: 4.505442
+Recommened Item Id 194. Strength of the preference: 4.472978
+Recommened Item Id 196. Strength of the preference: 4.454843
+Recommened Item Id 207. Strength of the preference: 4.339311
+User Id: 1062
+Recommened Item Id 160. Strength of the preference: 4.472527
+Recommened Item Id 200. Strength of the preference: 4.468323
+Recommened Item Id 155. Strength of the preference: 4.306546
+Recommened Item Id 194. Strength of the preference: 4.247442
+Recommened Item Id 204. Strength of the preference: 4.225463
+User Id: 1063
+Recommened Item Id 197. Strength of the preference: 4.521785
+Recommened Item Id 200. Strength of the preference: 4.504032
+Recommened Item Id 208. Strength of the preference: 4.481396
+Recommened Item Id 195. Strength of the preference: 4.437818
+Recommened Item Id 194. Strength of the preference: 4.354499
+User Id: 1064
+Recommened Item Id 201. Strength of the preference: 4.440504
+Recommened Item Id 203. Strength of the preference: 4.393238
+Recommened Item Id 199. Strength of the preference: 4.329501
+Recommened Item Id 154. Strength of the preference: 4.303781
+Recommened Item Id 194. Strength of the preference: 4.294984
+User Id: 1065
+Recommened Item Id 193. Strength of the preference: 4.392458
+Recommened Item Id 165. Strength of the preference: 4.339361
+Recommened Item Id 196. Strength of the preference: 4.290749
+Recommened Item Id 154. Strength of the preference: 4.247799
+Recommened Item Id 156. Strength of the preference: 4.218771
+User Id: 1066
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 170. Strength of the preference: 4.449840
+Recommened Item Id 199. Strength of the preference: 4.417684
+Recommened Item Id 154. Strength of the preference: 4.333940
+Recommened Item Id 171. Strength of the preference: 4.333704
+User Id: 1067
+Recommened Item Id 208. Strength of the preference: 4.661346
+Recommened Item Id 158. Strength of the preference: 4.418425
+Recommened Item Id 196. Strength of the preference: 4.360698
+Recommened Item Id 170. Strength of the preference: 4.306618
+Recommened Item Id 207. Strength of the preference: 4.304166
+User Id: 1068
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 201. Strength of the preference: 4.491000
+Recommened Item Id 200. Strength of the preference: 4.468774
+Recommened Item Id 206. Strength of the preference: 4.395896
+Recommened Item Id 207. Strength of the preference: 4.336644
+User Id: 1069
+Recommened Item Id 196. Strength of the preference: 4.549129
+Recommened Item Id 167. Strength of the preference: 4.518960
+Recommened Item Id 201. Strength of the preference: 4.434721
+Recommened Item Id 207. Strength of the preference: 4.414108
+Recommened Item Id 199. Strength of the preference: 4.358730
+User Id: 1070
+Recommened Item Id 152. Strength of the preference: 4.587580
+Recommened Item Id 208. Strength of the preference: 4.398369
+Recommened Item Id 196. Strength of the preference: 4.386921
+Recommened Item Id 209. Strength of the preference: 4.375229
+Recommened Item Id 167. Strength of the preference: 4.339964
+User Id: 1071
+Recommened Item Id 152. Strength of the preference: 4.760736
+Recommened Item Id 161. Strength of the preference: 4.391185
+Recommened Item Id 193. Strength of the preference: 4.380675
+Recommened Item Id 202. Strength of the preference: 4.348728
+Recommened Item Id 157. Strength of the preference: 4.345805
+User Id: 1072
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 206. Strength of the preference: 4.432832
+Recommened Item Id 201. Strength of the preference: 4.365003
+Recommened Item Id 199. Strength of the preference: 4.294531
+Recommened Item Id 204. Strength of the preference: 4.261810
+User Id: 1073
+Recommened Item Id 200. Strength of the preference: 4.441645
+Recommened Item Id 196. Strength of the preference: 4.320122
+Recommened Item Id 165. Strength of the preference: 4.309496
+Recommened Item Id 208. Strength of the preference: 4.294162
+Recommened Item Id 201. Strength of the preference: 4.284151
+User Id: 1074
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 196. Strength of the preference: 4.653992
+Recommened Item Id 205. Strength of the preference: 4.577065
+Recommened Item Id 207. Strength of the preference: 4.533076
+Recommened Item Id 201. Strength of the preference: 4.453409
+User Id: 1075
+Recommened Item Id 208. Strength of the preference: 4.408386
+Recommened Item Id 161. Strength of the preference: 4.363493
+Recommened Item Id 203. Strength of the preference: 4.337767
+Recommened Item Id 196. Strength of the preference: 4.336071
+Recommened Item Id 201. Strength of the preference: 4.321227
+User Id: 1076
+Recommened Item Id 203. Strength of the preference: 4.444911
+Recommened Item Id 160. Strength of the preference: 4.352302
+Recommened Item Id 196. Strength of the preference: 4.335845
+Recommened Item Id 166. Strength of the preference: 4.315051
+Recommened Item Id 201. Strength of the preference: 4.311840
+User Id: 1077
+Recommened Item Id 208. Strength of the preference: 4.440221
+Recommened Item Id 205. Strength of the preference: 4.384945
+Recommened Item Id 167. Strength of the preference: 4.374115
+Recommened Item Id 196. Strength of the preference: 4.284582
+Recommened Item Id 161. Strength of the preference: 4.276683
+User Id: 1078
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 205. Strength of the preference: 4.429859
+Recommened Item Id 208. Strength of the preference: 4.388044
+Recommened Item Id 207. Strength of the preference: 4.366994
+Recommened Item Id 201. Strength of the preference: 4.337379
+User Id: 1079
+Recommened Item Id 200. Strength of the preference: 4.299747
+Recommened Item Id 170. Strength of the preference: 4.296145
+Recommened Item Id 199. Strength of the preference: 4.259552
+Recommened Item Id 196. Strength of the preference: 4.254806
+Recommened Item Id 203. Strength of the preference: 4.222368
+User Id: 1080
+Recommened Item Id 209. Strength of the preference: 4.532178
+Recommened Item Id 199. Strength of the preference: 4.477316
+Recommened Item Id 158. Strength of the preference: 4.469067
+Recommened Item Id 201. Strength of the preference: 4.381188
+Recommened Item Id 208. Strength of the preference: 4.305715
+User Id: 1081
+Recommened Item Id 158. Strength of the preference: 4.654048
+Recommened Item Id 164. Strength of the preference: 4.390864
+Recommened Item Id 194. Strength of the preference: 4.353749
+Recommened Item Id 153. Strength of the preference: 4.294915
+Recommened Item Id 199. Strength of the preference: 4.245690
+User Id: 1082
+Recommened Item Id 165. Strength of the preference: 4.479552
+Recommened Item Id 200. Strength of the preference: 4.458108
+Recommened Item Id 161. Strength of the preference: 4.323411
+Recommened Item Id 206. Strength of the preference: 4.319353
+Recommened Item Id 171. Strength of the preference: 4.279348
+User Id: 1083
+Recommened Item Id 201. Strength of the preference: 4.577923
+Recommened Item Id 209. Strength of the preference: 4.539383
+Recommened Item Id 210. Strength of the preference: 4.512464
+Recommened Item Id 196. Strength of the preference: 4.454486
+Recommened Item Id 154. Strength of the preference: 4.452688
+User Id: 1084
+Recommened Item Id 208. Strength of the preference: 4.463507
+Recommened Item Id 201. Strength of the preference: 4.401190
+Recommened Item Id 166. Strength of the preference: 4.395108
+Recommened Item Id 162. Strength of the preference: 4.386624
+Recommened Item Id 171. Strength of the preference: 4.379302
+User Id: 1085
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 203. Strength of the preference: 4.563169
+Recommened Item Id 209. Strength of the preference: 4.552974
+Recommened Item Id 206. Strength of the preference: 4.526694
+Recommened Item Id 167. Strength of the preference: 4.450341
+User Id: 1086
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 196. Strength of the preference: 4.507583
+Recommened Item Id 208. Strength of the preference: 4.397871
+Recommened Item Id 167. Strength of the preference: 4.386703
+Recommened Item Id 154. Strength of the preference: 4.359529
+User Id: 1087
+Recommened Item Id 208. Strength of the preference: 4.503914
+Recommened Item Id 209. Strength of the preference: 4.500448
+Recommened Item Id 167. Strength of the preference: 4.428660
+Recommened Item Id 194. Strength of the preference: 4.395700
+Recommened Item Id 206. Strength of the preference: 4.375926
+User Id: 1088
+Recommened Item Id 210. Strength of the preference: 4.679989
+Recommened Item Id 196. Strength of the preference: 4.543539
+Recommened Item Id 207. Strength of the preference: 4.464115
+Recommened Item Id 208. Strength of the preference: 4.412290
+Recommened Item Id 201. Strength of the preference: 4.381562
+User Id: 1089
+Recommened Item Id 208. Strength of the preference: 4.629103
+Recommened Item Id 201. Strength of the preference: 4.515171
+Recommened Item Id 164. Strength of the preference: 4.391781
+Recommened Item Id 197. Strength of the preference: 4.339665
+Recommened Item Id 158. Strength of the preference: 4.334597
+User Id: 1090
+Recommened Item Id 165. Strength of the preference: 4.344408
+Recommened Item Id 206. Strength of the preference: 4.335994
+Recommened Item Id 171. Strength of the preference: 4.309558
+Recommened Item Id 167. Strength of the preference: 4.296622
+Recommened Item Id 157. Strength of the preference: 4.284253
+User Id: 1091
+Recommened Item Id 196. Strength of the preference: 4.517297
+Recommened Item Id 207. Strength of the preference: 4.472669
+Recommened Item Id 158. Strength of the preference: 4.377559
+Recommened Item Id 171. Strength of the preference: 4.362390
+Recommened Item Id 161. Strength of the preference: 4.350178
+User Id: 1092
+Recommened Item Id 209. Strength of the preference: 4.816342
+Recommened Item Id 194. Strength of the preference: 4.627510
+Recommened Item Id 201. Strength of the preference: 4.578232
+Recommened Item Id 155. Strength of the preference: 4.503910
+Recommened Item Id 202. Strength of the preference: 4.486195
+User Id: 1093
+No recommendations for this user.
+User Id: 1094
+No recommendations for this user.
+User Id: 1095
+Recommened Item Id 210. Strength of the preference: 4.662464
+Recommened Item Id 196. Strength of the preference: 4.594464
+Recommened Item Id 158. Strength of the preference: 4.386101
+Recommened Item Id 193. Strength of the preference: 4.367212
+Recommened Item Id 159. Strength of the preference: 4.269383
+User Id: 1096
+No recommendations for this user.
+User Id: 1097
+Recommened Item Id 210. Strength of the preference: 4.602433
+Recommened Item Id 207. Strength of the preference: 4.534355
+Recommened Item Id 196. Strength of the preference: 4.501594
+Recommened Item Id 158. Strength of the preference: 4.457232
+Recommened Item Id 193. Strength of the preference: 4.366836
+User Id: 1098
+No recommendations for this user.
+User Id: 1099
+No recommendations for this user.
+User Id: 1100
+No recommendations for this user.
+User Id: 1101
+No recommendations for this user.
+User Id: 1103
+No recommendations for this user.
+User Id: 1104
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 207. Strength of the preference: 4.717854
+Recommened Item Id 158. Strength of the preference: 4.381311
+Recommened Item Id 170. Strength of the preference: 4.370707
+User Id: 1106
+No recommendations for this user.
+User Id: 1107
+Recommened Item Id 208. Strength of the preference: 4.557912
+Recommened Item Id 197. Strength of the preference: 4.476688
+Recommened Item Id 198. Strength of the preference: 4.421583
+Recommened Item Id 158. Strength of the preference: 4.348154
+Recommened Item Id 165. Strength of the preference: 4.348052
+User Id: 1115
+No recommendations for this user.
+User Id: 1116
+No recommendations for this user.
+User Id: 1141
+No recommendations for this user.
+User Id: 1167
+No recommendations for this user.
+User Id: 1169
+No recommendations for this user.
+User Id: 1172
+No recommendations for this user.
+User Id: 1173
+No recommendations for this user.
+User Id: 1184
+No recommendations for this user.
+User Id: 1201
+No recommendations for this user.
+User Id: 1205
+No recommendations for this user.
+User Id: 1210
+No recommendations for this user.
+User Id: 1211
+No recommendations for this user.
+User Id: 1212
+No recommendations for this user.
+User Id: 1216
+No recommendations for this user.
+User Id: 1217
+Recommened Item Id 169. Strength of the preference: 4.310811
+Recommened Item Id 158. Strength of the preference: 4.293334
+Recommened Item Id 200. Strength of the preference: 4.285714
+Recommened Item Id 171. Strength of the preference: 4.265306
+Recommened Item Id 166. Strength of the preference: 4.259740
+User Id: 1219
+No recommendations for this user.
+User Id: 1224
+No recommendations for this user.
+User Id: 1225
+No recommendations for this user.
+User Id: 1229
+No recommendations for this user.
+User Id: 1231
+No recommendations for this user.
+User Id: 1232
+No recommendations for this user.
+User Id: 1233
+Recommened Item Id 197. Strength of the preference: 4.477303
+Recommened Item Id 158. Strength of the preference: 4.422586
+Recommened Item Id 162. Strength of the preference: 4.394766
+Recommened Item Id 196. Strength of the preference: 4.359226
+Recommened Item Id 194. Strength of the preference: 4.357285
+User Id: 1235
+Recommened Item Id 208. Strength of the preference: 4.562500
+Recommened Item Id 160. Strength of the preference: 4.446154
+Recommened Item Id 196. Strength of the preference: 4.425926
+Recommened Item Id 202. Strength of the preference: 4.407407
+Recommened Item Id 201. Strength of the preference: 4.385965
+User Id: 1236
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 165. Strength of the preference: 4.444138
+Recommened Item Id 196. Strength of the preference: 4.443587
+Recommened Item Id 170. Strength of the preference: 4.373860
+Recommened Item Id 162. Strength of the preference: 4.346097
+User Id: 1239
+No recommendations for this user.
+User Id: 1240
+No recommendations for this user.
+User Id: 1242
+No recommendations for this user.
+User Id: 1243
+No recommendations for this user.
+User Id: 1246
+No recommendations for this user.
+User Id: 1247
+No recommendations for this user.
+User Id: 1248
+No recommendations for this user.
+User Id: 1251
+No recommendations for this user.
+User Id: 1252
+Recommened Item Id 201. Strength of the preference: 4.583333
+Recommened Item Id 200. Strength of the preference: 4.460000
+Recommened Item Id 155. Strength of the preference: 4.352941
+Recommened Item Id 158. Strength of the preference: 4.327586
+Recommened Item Id 161. Strength of the preference: 4.316667
+User Id: 1253
+No recommendations for this user.
+User Id: 1255
+No recommendations for this user.
+User Id: 1257
+No recommendations for this user.
+User Id: 1260
+No recommendations for this user.
+User Id: 1263
+No recommendations for this user.
+User Id: 1264
+No recommendations for this user.
+User Id: 1266
+Recommened Item Id 210. Strength of the preference: 5.000000
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 208. Strength of the preference: 4.500000
+Recommened Item Id 196. Strength of the preference: 4.441176
+Recommened Item Id 170. Strength of the preference: 4.391304
+User Id: 1267
+No recommendations for this user.
+User Id: 1268
+No recommendations for this user.
+User Id: 1269
+No recommendations for this user.
+User Id: 1271
+No recommendations for this user.
+User Id: 1272
+Recommened Item Id 196. Strength of the preference: 4.481771
+Recommened Item Id 158. Strength of the preference: 4.392509
+Recommened Item Id 201. Strength of the preference: 4.381534
+Recommened Item Id 167. Strength of the preference: 4.340056
+Recommened Item Id 207. Strength of the preference: 4.320653
+User Id: 1273
+No recommendations for this user.
+User Id: 1274
+Recommened Item Id 152. Strength of the preference: 5.000000
+Recommened Item Id 154. Strength of the preference: 4.400000
+Recommened Item Id 162. Strength of the preference: 4.355556
+Recommened Item Id 158. Strength of the preference: 4.355556
+Recommened Item Id 202. Strength of the preference: 4.333333
+User Id: 1276
+No recommendations for this user.
+User Id: 1278
+No recommendations for this user.
+User Id: 1279
+No recommendations for this user.
+User Id: 1286
+No recommendations for this user.
+User Id: 1287
+No recommendations for this user.
+User Id: 1290
+No recommendations for this user.
+User Id: 1291
+No recommendations for this user.
+User Id: 1298
+No recommendations for this user.
+User Id: 1306
+No recommendations for this user.
+User Id: 1317
+No recommendations for this user.
+User Id: 1321
+No recommendations for this user.
+User Id: 1326
+No recommendations for this user.
+User Id: 1396
+No recommendations for this user.
+Tanishas-MacBook-Pro:~ sanjayjain$ 
